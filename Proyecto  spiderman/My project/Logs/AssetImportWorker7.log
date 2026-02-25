@@ -1,0 +1,1348 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.7f1 (696ec25a53d1) revision 6909634'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-emman" at "2026-02-25T13:19:03.1774462Z"
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'es' Physical Memory: 7817 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-02-25T13:19:03Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/emman/Desktop/Proyecto  spiderman/My project
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+52231
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/emman/Desktop/Proyecto  spiderman/My project
+C:/Users/emman/Desktop/Proyecto  spiderman/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [8932]  Target information:
+
+Player connection [8932]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 752824485 [EditorId] 752824485 [Version] 1048832 [Id] WindowsEditor(7,Emmanuel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [8932]  * "[IP] 10.10.0.201 [Port] 0 [Flags] 2 [Guid] 752824485 [EditorId] 752824485 [Version] 1048832 [Id] WindowsEditor(7,Emmanuel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [8932] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8932] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 18.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.7f1 (696ec25a53d1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/emman/Desktop/Proyecto  spiderman/My project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0xa7a8)
+    Vendor:   Intel
+    VRAM:     3908 MB
+    Driver:   32.0.101.6737
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              bc0233c2df434b559ddac0bc5899591f
+  Correlation Id:          2c6bb4f191dc85c7216d7d524fd0b50c
+  External correlation Id: 7133516982318614320
+  Machine Id:              hfF322bHII5vPWw5Tn5pXe0Ys6w=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-emman" (connect: 0.00s, validation: 0.01s, handshake: 2.04s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-emman-notifications" at "2026-02-25T13:19:05.2257304Z"
+[Licensing::Module] Licensing Background thread has ended after 2.05s
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006436 seconds.
+- Loaded All Assemblies, in  1.024 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.797 seconds
+Domain Reload Profiling: 1822ms
+	BeginReloadAssembly (517ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (7ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (83ms)
+	LoadAllAssembliesAndSetupDomain (339ms)
+		LoadAssemblies (503ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (332ms)
+			TypeCache.Refresh (327ms)
+				TypeCache.ScanAssembly (292ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (799ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (708ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (85ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (155ms)
+			ProcessInitializeOnLoadAttributes (279ms)
+			ProcessInitializeOnLoadMethodAttributes (181ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674145662004-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  0.926 seconds
+Refreshing native plugins compatible for Editor in 1.95 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.959 seconds
+Domain Reload Profiling: 1882ms
+	BeginReloadAssembly (189ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (655ms)
+		LoadAssemblies (455ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (294ms)
+			TypeCache.Refresh (172ms)
+				TypeCache.ScanAssembly (157ms)
+			BuildScriptInfoCaches (106ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (960ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (714ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (178ms)
+			ProcessInitializeOnLoadAttributes (466ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6229 unused Assets / (3.7 MB). Loaded Objects now: 7027.
+Memory consumption went from 146.8 MB to 143.1 MB.
+Total: 11.333400 ms (FindLiveObjects: 1.176500 ms CreateObjectMapping: 1.249300 ms MarkObjects: 7.016800 ms  DeleteObjects: 1.889700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 515717.213652 seconds.
+  path: Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Decal Simple.shadergraph
+  artifactKey: Guid(39144937a5efe954dac51acbbe54157e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Decal Simple.shadergraph using Guid(39144937a5efe954dac51acbbe54157e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0f864f7da372eb4d878082edd76d38d') in 1.3598814 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b2.mat
+  artifactKey: Guid(c0e5deab59a7c22429e6cf07ac305842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b2.mat using Guid(c0e5deab59a7c22429e6cf07ac305842) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '234ea601bd6a6d268f0be86079818c8c') in 0.0518268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b4.mat
+  artifactKey: Guid(c823db213c09c834b9291fa879c9e5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b4.mat using Guid(c823db213c09c834b9291fa879c9e5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb1b168db29b74abb15763d61e1daefc') in 0.0248046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/03 (8).mat
+  artifactKey: Guid(a02a7ad95c83627459c7e7ca766928bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/03 (8).mat using Guid(a02a7ad95c83627459c7e7ca766928bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9206a6396fb773cd7650b21f6a7b4881') in 0.017238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/WhiteCity/Models/Roof/Materials/43.mat
+  artifactKey: Guid(73c4cea53413e39489e5238180d58a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/Materials/43.mat using Guid(73c4cea53413e39489e5238180d58a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e3cef1d594beaa7372fdfed2a713421') in 0.0153045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b4-3.mat
+  artifactKey: Guid(08a700b757b21744089a6ed03a436030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b4-3.mat using Guid(08a700b757b21744089a6ed03a436030) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85f54ca61417ed28f4516b552223864d') in 0.0200647 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractive.shadergraph
+  artifactKey: Guid(0e9d5a909a1f7e84882a534d0d11e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractive.shadergraph using Guid(0e9d5a909a1f7e84882a534d0d11e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2022ac31e3a87c5ed292453664edeea6') in 10.7007202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1fd8a316e6506677ac0ecd59a6d03d01') in 0.1719141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat
+  artifactKey: Guid(d09b485b81c6a014c81b8ea275d46ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat using Guid(d09b485b81c6a014c81b8ea275d46ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08763f716c6d9b93e5d22f3d669edb27') in 0.0229458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Materials/Metal_Black.mat
+  artifactKey: Guid(b34b07a45ba63ce47896c9e674f3a7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Materials/Metal_Black.mat using Guid(b34b07a45ba63ce47896c9e674f3a7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f1bb55c92d6e875d7f8972589b162a5') in 10.2668732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/RendererFeatures/SurfaceCacheGI/FallbackMaterial.mat
+  artifactKey: Guid(8a239b3da89050c4e89ac06b168fc684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/RendererFeatures/SurfaceCacheGI/FallbackMaterial.mat using Guid(8a239b3da89050c4e89ac06b168fc684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f510f91c4932cd0676d356f81c15fc3') in 0.0790021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f79d60f0063c9196d9194a5c9797584') in 0.0506118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/WhiteCity/Models/Roof/Materials/eeee.mat
+  artifactKey: Guid(d63bc941dd8e67a4ca9fa9a0c228ccf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/Materials/eeee.mat using Guid(d63bc941dd8e67a4ca9fa9a0c228ccf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c64816ed11cf3d518717f27b45c8cae7') in 0.0366504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/i2.mat
+  artifactKey: Guid(8c1bbe45873a342408e1b2a3bee5646f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/i2.mat using Guid(8c1bbe45873a342408e1b2a3bee5646f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd99c8857a51993c34ba21816f6c995ce') in 0.0337129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/4-2.mat
+  artifactKey: Guid(475d2e2c3ff9b3e4eb3d9d59f2e072a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/4-2.mat using Guid(475d2e2c3ff9b3e4eb3d9d59f2e072a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a41a96264126e2dbf38242e8f9dd963') in 0.0233011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Shaders/Decal.shadergraph
+  artifactKey: Guid(9b4e681081e2b4c469111bb649e2f7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Shaders/Decal.shadergraph using Guid(9b4e681081e2b4c469111bb649e2f7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bf58a044af563996518386bafbf1110') in 0.067791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat
+  artifactKey: Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat using Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e848ec27b5bd6dbc65dd8d49d26c7ba5') in 0.044404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_shoe_03.fbx
+  artifactKey: Guid(7bcbccde7fe242846b15f914e78e6b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_shoe_03.fbx using Guid(7bcbccde7fe242846b15f914e78e6b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36cf78c2b962718ee0c4c54c4c80df76') in 0.5809063 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/05 (8).mat
+  artifactKey: Guid(0de8f807e4effcf488cd48d784a3a7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/05 (8).mat using Guid(0de8f807e4effcf488cd48d784a3a7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a59cee069df53e686e5c106a6b7436b1') in 0.0278206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96f4179d567a318abe504dab1efbf461') in 0.0411182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7142e159225a2bd5e6c757f6f1ae9eb') in 0.043645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54f94aa698fa70d9b7c82bdfbb0510b2') in 0.0351746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b12.mat
+  artifactKey: Guid(ea5cf619c570a71499cf551b531745f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b12.mat using Guid(ea5cf619c570a71499cf551b531745f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dacd33e82a260c279155e0f210fe07a7') in 0.0269692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/06 (7).mat
+  artifactKey: Guid(ed2115d86521bad449a04f5b44ec2d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/06 (7).mat using Guid(ed2115d86521bad449a04f5b44ec2d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27c4295ee13b4e7b9abd78451161f5ce') in 0.0379684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_shoe_04.fbx
+  artifactKey: Guid(aa1020ec2c37d4440b5033fccc0f4dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_shoe_04.fbx using Guid(aa1020ec2c37d4440b5033fccc0f4dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5013934065b75db5ccfb48f4f2c84138') in 0.2178531 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Particle Unlit.shadergraph
+  artifactKey: Guid(af66091e0eca0c04a9c3584ae867418a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Particle Unlit.shadergraph using Guid(af66091e0eca0c04a9c3584ae867418a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aaaff90e5a0e5bfe6bcceba56189b423') in 0.8996731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b1.mat
+  artifactKey: Guid(f632b1c8557e32d43bff941c3a868a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b1.mat using Guid(f632b1c8557e32d43bff941c3a868a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27798f9eccb3331978bda6b4c677a9db') in 0.0405767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractiveMasked.shadergraph
+  artifactKey: Guid(80aa867ac363ac043847b06ad71604cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractiveMasked.shadergraph using Guid(80aa867ac363ac043847b06ad71604cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4aadf74d00d648eb3add77482e5cb811') in 11.5444592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/5.mat
+  artifactKey: Guid(cf5ec46cca0e3784c8e8ed2adc07d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/5.mat using Guid(cf5ec46cca0e3784c8e8ed2adc07d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b218cf287d55274916478111a895c217') in 0.0455178 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat
+  artifactKey: Guid(529c0cfbd00130d47800f21bc08f039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat using Guid(529c0cfbd00130d47800f21bc08f039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bdc2a4d7f5b6755db0ebd2685d1c7b83') in 0.0413121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b6-1.mat
+  artifactKey: Guid(313045ffbb76988449f1faccd80570bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b6-1.mat using Guid(313045ffbb76988449f1faccd80570bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8e88462021cc4842408de8ab3cfad6ad') in 0.032131 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0eae130cc4accf34c3e91a043f95fc39') in 0.056997 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Lit Basic.shadergraph
+  artifactKey: Guid(a2407126e3372f64cacb75ed466a5621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/GraphTemplates/Cross Pipeline/0_Lit Basic.shadergraph using Guid(a2407126e3372f64cacb75ed466a5621) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5797dae32f5abf4592ba4ef475a97a6d') in 11.7643085 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Packages/com.unity.shadergraph/GraphTemplates/BuiltIn/BuiltIn Lit Basic.shadergraph
+  artifactKey: Guid(2019d78ad3d1c5c4a8d309a857ca449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.shadergraph/GraphTemplates/BuiltIn/BuiltIn Lit Basic.shadergraph using Guid(2019d78ad3d1c5c4a8d309a857ca449f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26de0d5cca14658029b956f15a5dec90') in 0.5570168 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/FullscreenInvertColors.mat
+  artifactKey: Guid(78a08787ca30045abb69f6f7dd878e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/FullscreenInvertColors.mat using Guid(78a08787ca30045abb69f6f7dd878e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '682720fdb1ab6c35bc4c3ec15baddae0') in 0.5732807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat
+  artifactKey: Guid(00d0da6cbf30c1440bce2c1a4dfea6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat using Guid(00d0da6cbf30c1440bce2c1a4dfea6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26c703a702d20ef24c479fd3a17ac01f') in 0.031996 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Mesh2D-Lit-Default.mat
+  artifactKey: Guid(9452ae1262a74094f8a68013fbcd1834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Mesh2D-Lit-Default.mat using Guid(9452ae1262a74094f8a68013fbcd1834) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '590307199a36351af421fa9f07c3b6f6') in 0.0485303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/03 (9).mat
+  artifactKey: Guid(6cf9476470966604c9ce286a28a6b4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/03 (9).mat using Guid(6cf9476470966604c9ce286a28a6b4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1952be60d55e754de4737974519f0d9') in 0.0459274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/WhiteCity/Models/Roof/Materials/lambert1.mat
+  artifactKey: Guid(0db88e3e8f89826478e9c49a4fe01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/Materials/lambert1.mat using Guid(0db88e3e8f89826478e9c49a4fe01ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a78707cfb131986a50478d46057aa2f6') in 0.0421284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/WhiteCity/Models/Roof/Materials/Aircos0005_240.mat
+  artifactKey: Guid(53a8f19c48e42174c9b664b59f320413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/Materials/Aircos0005_240.mat using Guid(53a8f19c48e42174c9b664b59f320413) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b67ee1ac6bfcc3471735043725b3df38') in 0.0453107 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.314941 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_00_character_01m.fbx
+  artifactKey: Guid(46c5ec54e9c218c4abd9fbeb01ef1d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_00_character_01m.fbx using Guid(46c5ec54e9c218c4abd9fbeb01ef1d1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '227d6fe1bac81fd6ea4c3e73151833ee') in 0.4885032 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 292
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_haircut_d_01.fbx
+  artifactKey: Guid(1c331bab91255334980c78217115db75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_haircut_d_01.fbx using Guid(1c331bab91255334980c78217115db75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1432f19bb02cdfa9689c3c1d395a9fe3') in 0.2115212 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_hmn_01m.fbx
+  artifactKey: Guid(4350b309aa35d8241b5a918441629bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_hmn_01m.fbx using Guid(4350b309aa35d8241b5a918441629bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39cfa7542e2a498248a12c3a493b7b2f') in 0.2598675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 152
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/3.prefab
+  artifactKey: Guid(57b98f44a00fbce429284c88b6179917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/3.prefab using Guid(57b98f44a00fbce429284c88b6179917) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f74b8b7a46530f95dad5ccf3cb30e2d8') in 0.0643389 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-7.fbx
+  artifactKey: Guid(f4b691195c179e945ac8f00a797961b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-7.fbx using Guid(f4b691195c179e945ac8f00a797961b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e750769987510c57efc6ffed7018b21b') in 0.0771827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00m_01_03.prefab
+  artifactKey: Guid(2e0cd28df1f2cce4e8143adea2c9de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00m_01_03.prefab using Guid(2e0cd28df1f2cce4e8143adea2c9de91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06bd447a325d02668d6ec36ad90869ae') in 0.0807661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 291
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01m_01.prefab
+  artifactKey: Guid(2a706093cdcc8d24f8b31d830f678399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01m_01.prefab using Guid(2a706093cdcc8d24f8b31d830f678399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68233aaa897416ea223239cf451acf3d') in 0.2253387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 453
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_pants_00f_01_02.prefab
+  artifactKey: Guid(28dbbfab185b9f74fa31995ee3e5479b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_pants_00f_01_02.prefab using Guid(28dbbfab185b9f74fa31995ee3e5479b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ab4b6b35cabb35fbedaf21f4e59d9c2') in 0.0755874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 291
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/WhiteCity/Models/Roof/p5-6.fbx
+  artifactKey: Guid(1f4a1ec0dedb43143a96c3d2e371b016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p5-6.fbx using Guid(1f4a1ec0dedb43143a96c3d2e371b016) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37bd932a3ade3f1ad0c280f5420f13fb') in 0.0601195 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/2.prefab
+  artifactKey: Guid(d848a27e8f2163742be2dcca2da5dfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/2.prefab using Guid(d848a27e8f2163742be2dcca2da5dfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24fd144e42efd276d1e7e1525a81f974') in 0.0541498 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01f_01.prefab
+  artifactKey: Guid(b737903a0cefa1e4aa4c22e91c6ec5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01f_01.prefab using Guid(b737903a0cefa1e4aa4c22e91c6ec5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00ea1d907794a1b722552d5a5946f8a6') in 0.1846899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 847
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/WhiteCity/Models/Roof/p1-1.fbx
+  artifactKey: Guid(73deee65ec709a74aa72f4e27bfc3d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p1-1.fbx using Guid(73deee65ec709a74aa72f4e27bfc3d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2bbcae2e3cad1e97383ef870af20ad11') in 0.0469481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/15.prefab
+  artifactKey: Guid(8bca44552c6bbd3419a536afac67d5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/15.prefab using Guid(8bca44552c6bbd3419a536afac67d5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a7270e325878201490be94ae3bf87ff1') in 0.0401343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/WhiteCity/Models/Roof/p5-3.fbx
+  artifactKey: Guid(78a8c0fcbd14a3241b17e232c96ef958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p5-3.fbx using Guid(78a8c0fcbd14a3241b17e232c96ef958) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5fe75d4db8fab2cabef8335d5cb56924') in 0.0644766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_02.prefab
+  artifactKey: Guid(9727ec39093945e4a897b18bcf4a34ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_02.prefab using Guid(9727ec39093945e4a897b18bcf4a34ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ad632537840bcbd2f6589109a866af5') in 0.0592612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 283
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_hairfacial_d_01.fbx
+  artifactKey: Guid(fe428b918b42ae741a0b609812f5f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_hairfacial_d_01.fbx using Guid(fe428b918b42ae741a0b609812f5f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e130b578e7bfbb8f6c6df3d400023b71') in 0.2099459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_pants_00f.fbx
+  artifactKey: Guid(7dd8cb0aa10e1f94ea599a72df9a0bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_pants_00f.fbx using Guid(7dd8cb0aa10e1f94ea599a72df9a0bf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6da04c3cc2ab537173765f925f375848') in 0.2176142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 149
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_haircut_c_02.prefab
+  artifactKey: Guid(63d9c0478d9d8ec41a1b412150d36c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_haircut_c_02.prefab using Guid(63d9c0478d9d8ec41a1b412150d36c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e61936c2ad755bd3f744a32963696a62') in 0.0748041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 281
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-6.fbx
+  artifactKey: Guid(5529ec8d6f2af7a4194ea427aaf4f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-6.fbx using Guid(5529ec8d6f2af7a4194ea427aaf4f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '819375c9c358f9bfa9d0bc0f9b62566d') in 0.0659817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02f_01.prefab
+  artifactKey: Guid(705225bb2a214a448b1dd2aefedb1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02f_01.prefab using Guid(705225bb2a214a448b1dd2aefedb1af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bcebae545d0095c1513c1014aed6bfc') in 0.2425469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 920
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/WhiteCity/Models/Roof/p1.fbx
+  artifactKey: Guid(6ad9d82f1af25f34ab6557c3d627a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p1.fbx using Guid(6ad9d82f1af25f34ab6557c3d627a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2b1642304a280b91e0655a905daa206') in 0.050491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/13.prefab
+  artifactKey: Guid(f969ce493f8b49442baa03271e7f6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/13.prefab using Guid(f969ce493f8b49442baa03271e7f6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1cf8fd09ed60ead41031745ead4921c') in 0.0707341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_casual_set_00.prefab
+  artifactKey: Guid(c42ec94ca32c9024c90a2d1c48dcc864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_casual_set_00.prefab using Guid(c42ec94ca32c9024c90a2d1c48dcc864) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00f41ed560a07a09a2ef69f2531ae5e6') in 1.7159683 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5304
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_03.prefab
+  artifactKey: Guid(787bb9164f9d82747a38af85f6d48125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_03.prefab using Guid(787bb9164f9d82747a38af85f6d48125) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61613fb2de2908cea207f7187c1b6a9a') in 0.0500056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 283
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_shirtopenrolled_00m_01_02.prefab
+  artifactKey: Guid(fd2fbe6df2866274ea11cbb31446e614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_shirtopenrolled_00m_01_02.prefab using Guid(fd2fbe6df2866274ea11cbb31446e614) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd05e8bb60c5b14be823dfc3a7da4bb5c') in 0.0587097 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 291
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/5.prefab
+  artifactKey: Guid(85200b019237e4d438a2ec33d1ab7041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/5.prefab using Guid(85200b019237e4d438a2ec33d1ab7041) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e9f9a07fd9548b0a3677589d494796a') in 0.0404018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Packages/com.unity.multiplayer.center/Editor/MultiplayerCenterWindow/UI/light.uss
+  artifactKey: Guid(f1ac2efb1bcd4dfd95dc196ed3c11367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.center/Editor/MultiplayerCenterWindow/UI/light.uss using Guid(f1ac2efb1bcd4dfd95dc196ed3c11367) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd4477c16f3c251642a8e3fe8feeccc2c') in 0.0512265 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_tshirt_00f.fbx
+  artifactKey: Guid(ab356a3ff7271e645b168f028442b1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_tshirt_00f.fbx using Guid(ab356a3ff7271e645b168f028442b1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be700134bc9c68a993bcbf820177af0c') in 0.2605489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 149
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_pants_00m_01_01bw.prefab
+  artifactKey: Guid(1f7b122d7ecc9ee4bb56b44e741910fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_pants_00m_01_01bw.prefab using Guid(1f7b122d7ecc9ee4bb56b44e741910fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4d54c17920868bc2aad4df0edce3e07') in 0.2092942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 289
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00f_01_02.prefab
+  artifactKey: Guid(d2c9903ec60b8e74ebc86afee1e815d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00f_01_02.prefab using Guid(d2c9903ec60b8e74ebc86afee1e815d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f61b63bf5a87d442c4261e2a122273da') in 0.0765586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 291
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/WhiteCity/Models/Roof/p2.fbx
+  artifactKey: Guid(c49350ef52968dc4eb3d925e1d19185e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p2.fbx using Guid(c49350ef52968dc4eb3d925e1d19185e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b808b980ef0f022419e16b5e763fc428') in 0.0684768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Packages/com.unity.mathematics/package.json
+  artifactKey: Guid(d34d0af25c21141a98c0cf3c0066444f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.mathematics/package.json using Guid(d34d0af25c21141a98c0cf3c0066444f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6fe1faf49803375a9d2953b0ec5d6e4') in 0.0091775 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01m_03.prefab
+  artifactKey: Guid(cf2b27186d52fd6438fd5fc2791f3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01m_03.prefab using Guid(cf2b27186d52fd6438fd5fc2791f3f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d6f5f9ebb99cfd401be8878ee9428f8') in 0.3024593 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 852
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_haircut_a_01.fbx
+  artifactKey: Guid(1d35e4ca5cce84c489209a330c303156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_haircut_a_01.fbx using Guid(1d35e4ca5cce84c489209a330c303156) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21a58ab0e0938929f23300d46ae85e91') in 0.2773833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/10.prefab
+  artifactKey: Guid(21cb504748591f445bfe40ac674be242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/10.prefab using Guid(21cb504748591f445bfe40ac674be242) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ad0fdafc43102d7c225092f302938232') in 0.0735631 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_haircut_e_01.fbx
+  artifactKey: Guid(76d36199a007ebb4bb3973882a0bf1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_haircut_e_01.fbx using Guid(76d36199a007ebb4bb3973882a0bf1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '771896d8a26c990e6222c93087441614') in 0.2849238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02m_02.prefab
+  artifactKey: Guid(1e702983913400042ac3fcd1173a6d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02m_02.prefab using Guid(1e702983913400042ac3fcd1173a6d37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0dd874de876b27989def117d23fb6881') in 0.3666199 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 628
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_haircut_a_03.prefab
+  artifactKey: Guid(0a94e85d498635540b4ea2f0eb23f5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_haircut_a_03.prefab using Guid(0a94e85d498635540b4ea2f0eb23f5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33c85cb1124d58c62eb97ad4ed5b7df5') in 0.117877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 281
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_csl_pants_00m.fbx
+  artifactKey: Guid(0d8553a63d3d6ee4e993a08138c720a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_csl_pants_00m.fbx using Guid(0d8553a63d3d6ee4e993a08138c720a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8b70f96d00136d03a9a8efd66ff1993') in 0.3455692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 149
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/8.prefab
+  artifactKey: Guid(29a990a110c2374418a2cace93ed34c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/8.prefab using Guid(29a990a110c2374418a2cace93ed34c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb1335727122f91b4f44ec49ccac883a') in 0.0884372 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PackageResources/pro/actionTreeBackground.png
+  artifactKey: Guid(c4b66e31395c54087a2fbc13ae7e0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PackageResources/pro/actionTreeBackground.png using Guid(c4b66e31395c54087a2fbc13ae7e0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4bac6c4719a98d94c9a941e76728c65') in 0.0829655 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PackageResources/pro/actionTreeBackgroundWithoutBorder.png
+  artifactKey: Guid(943deaaee9c9347e0a455aa208526c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/PackageResources/pro/actionTreeBackgroundWithoutBorder.png using Guid(943deaaee9c9347e0a455aa208526c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f06f9b066910671b9a6a3559394b6a5') in 0.0501938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_haircut_a_03.fbx
+  artifactKey: Guid(a628400937de95a4292762abb43a2481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_haircut_a_03.fbx using Guid(a628400937de95a4292762abb43a2481) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b531fc3301982aecc856c761468b1921') in 0.2859004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02m_03.prefab
+  artifactKey: Guid(7ff7e096ac295fb4b84d7d2a573bd046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02m_03.prefab using Guid(7ff7e096ac295fb4b84d7d2a573bd046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd60ee450045f3e8914f3b0ee75e63f69') in 0.2747613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 492
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/npc_casual_set_00/Mesh/npc_haircut_c_02.fbx
+  artifactKey: Guid(a10f81b6957ffb049bef4a7217b81e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Mesh/npc_haircut_c_02.fbx using Guid(a10f81b6957ffb049bef4a7217b81e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4b4cb6a1d2cab64dfe27ab391ce1531') in 0.2655127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 145
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Packages/com.unity.ai.navigation/Tests/Editor/Unity.AI.Navigation.Editor.Tests.asmdef
+  artifactKey: Guid(794824b4a8f003f47a92875e8342f790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ai.navigation/Tests/Editor/Unity.AI.Navigation.Editor.Tests.asmdef using Guid(794824b4a8f003f47a92875e8342f790) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af825c8eb932372c202e785366a936b2') in 0.0065816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_01.prefab
+  artifactKey: Guid(408eb24e06bf53e428212ae56be4d250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_shoe_01_00_01.prefab using Guid(408eb24e06bf53e428212ae56be4d250) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7637ecc990791c8d167665e43fead3f6') in 0.086753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 283
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00f_01_01.prefab
+  artifactKey: Guid(61dfc64d2d9326c44bd5ed01e224b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Prefabs/npc_csl_tshirt_00f_01_01.prefab using Guid(61dfc64d2d9326c44bd5ed01e224b1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07e0df57dfc8b8bd5e4d8494b6425598') in 0.0871762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 291
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Packages/com.unity.multiplayer.center/Editor/MultiplayerCenterWindow/UI/dark.uss
+  artifactKey: Guid(1984cd07fe96417f9e88f5771f6b4b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.multiplayer.center/Editor/MultiplayerCenterWindow/UI/dark.uss using Guid(1984cd07fe96417f9e88f5771f6b4b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17dc9b1243dbe42446b7da7043e93f32') in 0.0123455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 463.356604 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/1.png
+  artifactKey: Guid(32003ac298524ed4f9bb893d2269dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/1.png using Guid(32003ac298524ed4f9bb893d2269dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74d638bfbdc47c17706c0c9648937544') in 0.0795924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/5.png
+  artifactKey: Guid(449d38dc743aea44eb0b79bb4d3912c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/5.png using Guid(449d38dc743aea44eb0b79bb4d3912c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70aaeb890473cbdcd19e3c05ee17af97') in 0.08003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/3.png
+  artifactKey: Guid(426137a77b8e3b64888c93516cb33ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/3.png using Guid(426137a77b8e3b64888c93516cb33ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd107a69dc993a9044425ebab41df11c') in 0.0281856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/6.png
+  artifactKey: Guid(da98ef60dfdef9148a861d729a3609c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/6.png using Guid(da98ef60dfdef9148a861d729a3609c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '206a029423521a01247a85d484498d87') in 0.0644201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.717813 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/8.png
+  artifactKey: Guid(ba852b59c6ae3a74da474c5f4ad1935e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/8.png using Guid(ba852b59c6ae3a74da474c5f4ad1935e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cda71eee4197b316813f0128d009b2a8') in 0.1080577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.253395 seconds.
+  path: Assets/WhiteCity/Offer/Ads/ad1.psd
+  artifactKey: Guid(33fee76768048ad4abed19d386311b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Offer/Ads/ad1.psd using Guid(33fee76768048ad4abed19d386311b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0da8103062a643b9d5df719d2b11bed3') in 0.1129494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128653 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_c.tif
+  artifactKey: Guid(e7b88de56215974438a88df78de89542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_c.tif using Guid(e7b88de56215974438a88df78de89542) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd72f00933520357009421f8cbe2cc8a3') in 0.0572189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.425036 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_n.tif
+  artifactKey: Guid(73eba482b3ea8354fabda225bd747d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_n.tif using Guid(73eba482b3ea8354fabda225bd747d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49283cc72ac953cc7e513673e15b73cf') in 0.1452298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01bw_c.tif
+  artifactKey: Guid(8b1826be6f5a7ed4ea8e2e92757376cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01bw_c.tif using Guid(8b1826be6f5a7ed4ea8e2e92757376cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5e2779aa326cfb8d2262ba3b755aedd') in 0.0775527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.307932 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_03_c.tif
+  artifactKey: Guid(5d1fba2c4a768064cb75f66eea06f5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_03_c.tif using Guid(5d1fba2c4a768064cb75f66eea06f5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e37afbccffa31d0906cb41a1e8cd32ae') in 0.0890802 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_m.tif
+  artifactKey: Guid(15b7b4ed423e06547b6e02d940c92aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_m.tif using Guid(15b7b4ed423e06547b6e02d940c92aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf4e9b74d3cc00515a9d6828b28906e9') in 0.0704735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035810 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_o.tif
+  artifactKey: Guid(059bc073b6f3ded4eb8e001243ff23aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_o.tif using Guid(059bc073b6f3ded4eb8e001243ff23aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd68ab926d62c1d3c1e3baf79bf0daa16') in 0.0751261 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.566132 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_02_c.tif
+  artifactKey: Guid(e3dc5f6bfe627724bb3d32c531376f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_02_c.tif using Guid(e3dc5f6bfe627724bb3d32c531376f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3383485a4b128f9477794299ab3322a9') in 0.0704874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.218389 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01_c.tif
+  artifactKey: Guid(fbfee932441d63d4ca54ba9224c7e041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01_c.tif using Guid(fbfee932441d63d4ca54ba9224c7e041) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'edbc0f7550c3426fee319130da69af8b') in 0.0660292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034238 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01_n.tif
+  artifactKey: Guid(604df16cab02b5342afd08f689514273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01_n.tif using Guid(604df16cab02b5342afd08f689514273) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65049c7b2654d5b3a7e9c04574208bf5') in 0.0881891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.283133 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01bw_c.tif
+  artifactKey: Guid(9c68360ac20b0c249b2193b20a527873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_01bw_c.tif using Guid(9c68360ac20b0c249b2193b20a527873) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8873d18fdd713eaa2c35d97efe196588') in 0.0720524 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.209284 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_02bw_c.tif
+  artifactKey: Guid(91f666646f78aa94cb082ac96a605a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00f_01_02bw_c.tif using Guid(91f666646f78aa94cb082ac96a605a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '378ad917f38b4e137c146f2f276649af') in 0.0543499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027248 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_m.tif
+  artifactKey: Guid(8537041de2c9eb64189f87473efeac24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_m.tif using Guid(8537041de2c9eb64189f87473efeac24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dad58614e13f6206722c5e09132086d7') in 0.0360509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.491399 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_o.tif
+  artifactKey: Guid(4470fd6ad7a6cd242a320dd977c80fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_o.tif using Guid(4470fd6ad7a6cd242a320dd977c80fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d2c7f665289fdd1633955368e6ffc59') in 0.0850611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.250597 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_02_c.tif
+  artifactKey: Guid(59c8fff7680d1844eaa53f3228eef0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_02_c.tif using Guid(59c8fff7680d1844eaa53f3228eef0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba243ca7d3dc899c1715e4033724b15d') in 0.0664025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_02bw_c.tif
+  artifactKey: Guid(cfa81419c7f866f4f92b423d783be527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_02bw_c.tif using Guid(cfa81419c7f866f4f92b423d783be527) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a84c7a267a14604630544d18b74e5f91') in 0.0760096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.258744 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_02_c.tif
+  artifactKey: Guid(517bfbbd9b6f6604db23221f81a5670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_02_c.tif using Guid(517bfbbd9b6f6604db23221f81a5670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f5328c3f6efbca0d72acf7cb9d78b84') in 0.0739492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.210189 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_n.tif
+  artifactKey: Guid(4662851c9c3c84e458cf841dfb00798b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_n.tif using Guid(4662851c9c3c84e458cf841dfb00798b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7a508bf33009e015b8758b18c73e473') in 0.109198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.163738 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_02bw.tif
+  artifactKey: Guid(620a7179ed5ad8f4a8fe3e14cad67267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_02bw.tif using Guid(620a7179ed5ad8f4a8fe3e14cad67267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a482dd5723066e61a04ee889f903bcde') in 0.0718803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.182440 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_n.tif
+  artifactKey: Guid(91bb9c6f30ef1ac4b9430c2f8008dcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_n.tif using Guid(91bb9c6f30ef1ac4b9430c2f8008dcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0ded073c421662c3af35e2f81a47701') in 0.0650773 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146525 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_02bw_c.tif
+  artifactKey: Guid(d4e01967ad2c2cf4680f2a8c764693fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_02bw_c.tif using Guid(d4e01967ad2c2cf4680f2a8c764693fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b6a11c95c4a9f492f9bb0d53bd2599a') in 0.0671937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.215281 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hair_01_m.tif
+  artifactKey: Guid(17304a7bef9b667498fdd79598c6507a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hair_01_m.tif using Guid(17304a7bef9b667498fdd79598c6507a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57f788f3979a7c04b3371ff5bfae5637') in 0.0265374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hair_01_n.tif
+  artifactKey: Guid(8588daa8d3c8f3c40ad1c7c1b34b78d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hair_01_n.tif using Guid(8588daa8d3c8f3c40ad1c7c1b34b78d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2c008e68cf1384ca86c74620837627a4') in 0.0686915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059397 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_n.tif
+  artifactKey: Guid(742937975a0512143872e34a3129a006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_n.tif using Guid(742937975a0512143872e34a3129a006) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93b8093c6dc50e245f587031c665d9a8') in 0.1170058 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_m.tif
+  artifactKey: Guid(5318d4e633efc354383bdee78243d714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_m.tif using Guid(5318d4e633efc354383bdee78243d714) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63daf728143541f642389c156af1b87e') in 0.0411588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_o.tif
+  artifactKey: Guid(444656238b316674c9ac36691cf77785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_o.tif using Guid(444656238b316674c9ac36691cf77785) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8495c969a74f69d269a735dd6868ebcc') in 0.0804801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_c.tif
+  artifactKey: Guid(b7ce1e5d2bfb2a04384eb6b1c2e8166e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_c.tif using Guid(b7ce1e5d2bfb2a04384eb6b1c2e8166e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a1cb4458e6a6084ef732cf2039c33cd') in 0.0652055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008700 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_02_01_c.tif
+  artifactKey: Guid(d151be1b01a2b1e4590348f7fef58768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_02_01_c.tif using Guid(d151be1b01a2b1e4590348f7fef58768) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a7050cf8d219219cab52c9bdecad28ae') in 0.0761173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_02_01_m.tif
+  artifactKey: Guid(a1d24fdc2443c204caaf2657d3845d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_02_01_m.tif using Guid(a1d24fdc2443c204caaf2657d3845d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd09cedbab28fe091348cc55d0621ddcd') in 0.034557 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094648 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_03_01_m.tif
+  artifactKey: Guid(a66e4b318d5929b49803b7a0e87fa199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_03_01_m.tif using Guid(a66e4b318d5929b49803b7a0e87fa199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c597fe5fd0e1461708c66552cb5b71d0') in 0.0274671 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_03_01_msk.tif
+  artifactKey: Guid(ffbf7521843fce342aa61afadfdc552c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_03_01_msk.tif using Guid(ffbf7521843fce342aa61afadfdc552c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8eabe4094923cc29c91ed158843c7b03') in 0.0651982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013625 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_04_01_msk.tif
+  artifactKey: Guid(894c62f1182d36f46bb0eae99f1a6d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_04_01_msk.tif using Guid(894c62f1182d36f46bb0eae99f1a6d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd56c8e59081a351e74df871764ab8579') in 0.0788674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_04_01_o.tif
+  artifactKey: Guid(40672cbd01888b84799f26b82584b694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_04_01_o.tif using Guid(40672cbd01888b84799f26b82584b694) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6026b14b3c0c7e98956c0ec7d19ae51b') in 0.0594658 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010256 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_05_01_n.tif
+  artifactKey: Guid(69962a84125a31c428af65c094144769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_05_01_n.tif using Guid(69962a84125a31c428af65c094144769) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b137db713122f597cceb9ca8dd0376bb') in 0.0921376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_01_01_c.tif
+  artifactKey: Guid(dd60e79af5639a6419d1788edef2c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_01_01_c.tif using Guid(dd60e79af5639a6419d1788edef2c78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a161d3da835eb827a3cd86b8c1a367e') in 0.0841322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_01_01_o.tif
+  artifactKey: Guid(86cbca3db1fea664fbfd2062465722d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_01_01_o.tif using Guid(86cbca3db1fea664fbfd2062465722d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf9393e87857ba1104eadcb2592bf7e1') in 0.0668038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.529731 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_02_01_o.tif
+  artifactKey: Guid(a5debc00a11ef894db5078758a5150ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_02_01_o.tif using Guid(a5debc00a11ef894db5078758a5150ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b829662cfc7b80b2b64bf907f797995') in 0.0761468 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_03_01_m.tif
+  artifactKey: Guid(45d4f235317a2844fb83ae46ee7e6d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_03_01_m.tif using Guid(45d4f235317a2844fb83ae46ee7e6d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f451640c1f2b3c24b323f720ca4ce46f') in 0.0189433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.173129 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_03_01_o.tif
+  artifactKey: Guid(8adbb7ff57e1503458f0060dadb43f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_03_01_o.tif using Guid(8adbb7ff57e1503458f0060dadb43f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc45bf03440baed01f9414795d4bb848') in 0.0485661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_04_01_msk.tif
+  artifactKey: Guid(7f36abce851534d4692f96c34b9ce4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_04_01_msk.tif using Guid(7f36abce851534d4692f96c34b9ce4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '051d179e6ed201f63edbf5a36937d96f') in 0.0573165 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029556 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_c.tif
+  artifactKey: Guid(93d957030c3ca944298c5b35b21b367f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_c.tif using Guid(93d957030c3ca944298c5b35b21b367f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cea10500af0fb04462c18d51b2c10f2') in 0.0717427 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_m.tif
+  artifactKey: Guid(25bced589973413419247b29ca941145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_m.tif using Guid(25bced589973413419247b29ca941145) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e24ef560b91b9996eee7b7cd64356a7') in 0.0324225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088750 seconds.
+  path: Assets/WhiteCity/Textures/Roof/p1.png
+  artifactKey: Guid(6f1a86f841d29354ab6cdd061bc58722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Roof/p1.png using Guid(6f1a86f841d29354ab6cdd061bc58722) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f354a98b73c798398befc1adbc44ef95') in 0.0680723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/WhiteCity/Textures/Roof/p1-1.png
+  artifactKey: Guid(49b8952406f4e4846ac7565499c33046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Roof/p1-1.png using Guid(49b8952406f4e4846ac7565499c33046) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfed598886b0fd22f21dcec90a037dee') in 0.06374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012090 seconds.
+  path: Assets/npc_casual_set_00/Scenes/npc_casual_set_00/ReflectionProbe-0.exr
+  artifactKey: Guid(bb636e21513229a4ab5120d7800f8ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/npc_casual_set_00/Scenes/npc_casual_set_00/ReflectionProbe-0.exr using Guid(bb636e21513229a4ab5120d7800f8ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f91e885fc26d68e96e966fc459b383b') in 0.2212154 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.988100 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Icons/RenderGraphViewer/Texture@2x.png
+  artifactKey: Guid(38d7c20ac7a9de246a75479d66d518fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Icons/RenderGraphViewer/Texture@2x.png using Guid(38d7c20ac7a9de246a75479d66d518fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cda17b9ae66d31a70924a2d9ce36bbe5') in 0.0347608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png
+  artifactKey: Guid(75f26f1c549568c4e9950a368bd08cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png using Guid(75f26f1c549568c4e9950a368bd08cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69e89bda945b10f7da53167705bcf5a5') in 0.0760545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
