@@ -1,0 +1,2605 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.7f1 (696ec25a53d1) revision 6909634'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-emman" at "2026-03-08T20:54:49.5651448Z"
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'es' Physical Memory: 7817 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-03-08T20:54:49Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/emman/Desktop/Proyecto  spiderman/SpiderMan
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+63048
+-licensingIpc
+LicenseClient-emman
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/emman/Desktop/Proyecto  spiderman/SpiderMan
+C:/Users/emman/Desktop/Proyecto  spiderman/SpiderMan
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [11128]  Target information:
+
+Player connection [11128]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1929292323 [EditorId] 1929292323 [Version] 1048832 [Id] WindowsEditor(7,Emmanuel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11128]  * "[IP] 192.168.1.73 [Port] 0 [Flags] 2 [Guid] 1929292323 [EditorId] 1929292323 [Version] 1048832 [Id] WindowsEditor(7,Emmanuel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11128] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11128] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 217.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.7f1 (696ec25a53d1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/emman/Desktop/Proyecto  spiderman/SpiderMan/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0xa7a8)
+    Vendor:   Intel
+    VRAM:     3908 MB
+    Driver:   32.0.101.6737
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              c7515e6a03c8434989152dcfb498ee1d
+  Correlation Id:          fdd3f9d09113ec21e191d963fac01905
+  External correlation Id: 8940345588710879800
+  Machine Id:              hfF322bHII5vPWw5Tn5pXe0Ys6w=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-emman" (connect: 0.00s, validation: 0.19s, handshake: 7.44s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-emman-notifications" at "2026-03-08T20:54:57.1937065Z"
+[Licensing::Module] Licensing Background thread has ended after 7.63s
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.020008 seconds.
+- Loaded All Assemblies, in  5.639 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.752 seconds
+Domain Reload Profiling: 10384ms
+	BeginReloadAssembly (2824ms)
+		ExecutionOrderSort (3ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (22ms)
+	RebuildCommonClasses (973ms)
+	RebuildNativeTypeToScriptingClass (87ms)
+	initialDomainReloadingComplete (466ms)
+	LoadAllAssembliesAndSetupDomain (1278ms)
+		LoadAssemblies (2788ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1248ms)
+			TypeCache.Refresh (1231ms)
+				TypeCache.ScanAssembly (1040ms)
+			BuildScriptInfoCaches (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (4757ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4000ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (648ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (987ms)
+			ProcessInitializeOnLoadAttributes (1677ms)
+			ProcessInitializeOnLoadMethodAttributes (671ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674145662004-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  6.114 seconds
+Refreshing native plugins compatible for Editor in 8.40 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.437 seconds
+Domain Reload Profiling: 12526ms
+	BeginReloadAssembly (1548ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (78ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (306ms)
+	RebuildCommonClasses (328ms)
+	RebuildNativeTypeToScriptingClass (83ms)
+	initialDomainReloadingComplete (303ms)
+	LoadAllAssembliesAndSetupDomain (3800ms)
+		LoadAssemblies (3104ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1533ms)
+			TypeCache.Refresh (1013ms)
+				TypeCache.ScanAssembly (853ms)
+			BuildScriptInfoCaches (428ms)
+			ResolveRequiredComponents (60ms)
+	FinalizeReload (6464ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4491ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (40ms)
+			BeforeProcessingInitializeOnLoad (817ms)
+			ProcessInitializeOnLoadAttributes (2892ms)
+			ProcessInitializeOnLoadMethodAttributes (702ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (60ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 2.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6227 unused Assets / (3.9 MB). Loaded Objects now: 7026.
+Memory consumption went from 144.2 MB to 140.3 MB.
+Total: 44.253000 ms (FindLiveObjects: 3.456600 ms CreateObjectMapping: 4.658700 ms MarkObjects: 27.253500 ms  DeleteObjects: 8.879600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73148.262949 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Skybox/Map
+  artifactKey: Guid(c1fc89abdf5b61a419ec2e19a0ca4ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Skybox/Map using Guid(c1fc89abdf5b61a419ec2e19a0ca4ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3436eba65c355cd63725822b91ea690') in 0.0441151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Skybox/Map/Sky1.hdr
+  artifactKey: Guid(f61f43be4fd58844d96af49857aca32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Skybox/Map/Sky1.hdr using Guid(f61f43be4fd58844d96af49857aca32f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2108a5fd54bf27ba1f57f524e4ce40a4') in 0.392314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.417036 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Skybox/Material/Sky1.mat
+  artifactKey: Guid(1c3dbfa070684e14997f2480a4dc75d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Skybox/Material/Sky1.mat using Guid(1c3dbfa070684e14997f2480a4dc75d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6649d410c624b73acb6fde3672cfe1d') in 2.373296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.977422 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Skybox/Map/Materials
+  artifactKey: Guid(66405b64bcd26de419e9c21d7a2f8731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Skybox/Map/Materials using Guid(66405b64bcd26de419e9c21d7a2f8731) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '61c02a2d47881da9cb5dc2981f315f78') in 0.0070513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Skybox/Map/Materials/Sky1.mat
+  artifactKey: Guid(a5f0563d71c109443914f69f063e8ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Skybox/Map/Materials/Sky1.mat using Guid(a5f0563d71c109443914f69f063e8ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c27a142c1f7f505d21ff91c705483d9a') in 0.2263974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  7.630 seconds
+Refreshing native plugins compatible for Editor in 12.64 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.869 seconds
+Domain Reload Profiling: 10586ms
+	BeginReloadAssembly (2569ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (358ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (63ms)
+		CreateAndSetChildDomain (889ms)
+	RebuildCommonClasses (301ms)
+	RebuildNativeTypeToScriptingClass (44ms)
+	initialDomainReloadingComplete (166ms)
+	LoadAllAssembliesAndSetupDomain (4637ms)
+		LoadAssemblies (3303ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1613ms)
+			TypeCache.Refresh (124ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1373ms)
+			ResolveRequiredComponents (64ms)
+	FinalizeReload (2870ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1845ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (34ms)
+			BeforeProcessingInitializeOnLoad (552ms)
+			ProcessInitializeOnLoadAttributes (1048ms)
+			ProcessInitializeOnLoadMethodAttributes (179ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (3ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
+Refreshing native plugins compatible for Editor in 2.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6224 unused Assets / (3.4 MB). Loaded Objects now: 7110.
+Memory consumption went from 155.8 MB to 152.4 MB.
+Total: 47.096600 ms (FindLiveObjects: 2.789800 ms CreateObjectMapping: 2.778100 ms MarkObjects: 27.289200 ms  DeleteObjects: 14.232100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  5.047 seconds
+Refreshing native plugins compatible for Editor in 9.11 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.293 seconds
+Domain Reload Profiling: 8400ms
+	BeginReloadAssembly (1069ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (50ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (361ms)
+	RebuildCommonClasses (115ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (102ms)
+	LoadAllAssembliesAndSetupDomain (3797ms)
+		LoadAssemblies (2860ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1316ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1131ms)
+			ResolveRequiredComponents (61ms)
+	FinalizeReload (3297ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2433ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (28ms)
+			BeforeProcessingInitializeOnLoad (553ms)
+			ProcessInitializeOnLoadAttributes (1461ms)
+			ProcessInitializeOnLoadMethodAttributes (348ms)
+			AfterProcessingInitializeOnLoad (29ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (78ms)
+Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (3.9 MB). Loaded Objects now: 7113.
+Memory consumption went from 155.4 MB to 151.6 MB.
+Total: 76.333600 ms (FindLiveObjects: 9.029300 ms CreateObjectMapping: 7.156500 ms MarkObjects: 46.630100 ms  DeleteObjects: 13.506900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 174.715698 seconds.
+  path: Assets/Scenes/Test1.unity
+  artifactKey: Guid(b6d048c995f7a0244a7e93662ebe8449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test1.unity using Guid(b6d048c995f7a0244a7e93662ebe8449) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b127b28089269cf9ff691bf1fbdff365') in 0.0437634 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  4.507 seconds
+Refreshing native plugins compatible for Editor in 8.08 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.257 seconds
+Domain Reload Profiling: 7772ms
+	BeginReloadAssembly (1324ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (27ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (339ms)
+	RebuildCommonClasses (131ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (97ms)
+	LoadAllAssembliesAndSetupDomain (2930ms)
+		LoadAssemblies (2536ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1067ms)
+			TypeCache.Refresh (36ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (956ms)
+			ResolveRequiredComponents (37ms)
+	FinalizeReload (3259ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2441ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (39ms)
+			BeforeProcessingInitializeOnLoad (562ms)
+			ProcessInitializeOnLoadAttributes (1499ms)
+			ProcessInitializeOnLoadMethodAttributes (299ms)
+			AfterProcessingInitializeOnLoad (26ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (68ms)
+Refreshing native plugins compatible for Editor in 3.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.3 MB). Loaded Objects now: 7116.
+Memory consumption went from 155.5 MB to 151.2 MB.
+Total: 38.388800 ms (FindLiveObjects: 3.430200 ms CreateObjectMapping: 1.634900 ms MarkObjects: 26.247600 ms  DeleteObjects: 7.072200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  9.051 seconds
+Refreshing native plugins compatible for Editor in 2.49 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.976 seconds
+Domain Reload Profiling: 10016ms
+	BeginReloadAssembly (4755ms)
+		ExecutionOrderSort (2ms)
+		DisableScriptedObjects (432ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (45ms)
+		CreateAndSetChildDomain (1599ms)
+	RebuildCommonClasses (156ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (245ms)
+	LoadAllAssembliesAndSetupDomain (3861ms)
+		LoadAssemblies (3930ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (850ms)
+			TypeCache.Refresh (204ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (613ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (977ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (665ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (188ms)
+			ProcessInitializeOnLoadAttributes (382ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6224 unused Assets / (3.6 MB). Loaded Objects now: 7120.
+Memory consumption went from 155.5 MB to 152.0 MB.
+Total: 66.228500 ms (FindLiveObjects: 4.499000 ms CreateObjectMapping: 0.973700 ms MarkObjects: 47.502400 ms  DeleteObjects: 13.234700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6214 unused Assets / (3.5 MB). Loaded Objects now: 7116.
+Memory consumption went from 154.2 MB to 150.7 MB.
+Total: 37.428300 ms (FindLiveObjects: 5.340600 ms CreateObjectMapping: 3.480400 ms MarkObjects: 18.716300 ms  DeleteObjects: 9.883600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.217 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.649 seconds
+Domain Reload Profiling: 2869ms
+	BeginReloadAssembly (368ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (147ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (758ms)
+		LoadAssemblies (644ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (267ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (230ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1651ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1259ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (333ms)
+			ProcessInitializeOnLoadAttributes (681ms)
+			ProcessInitializeOnLoadMethodAttributes (200ms)
+			AfterProcessingInitializeOnLoad (23ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (47ms)
+Refreshing native plugins compatible for Editor in 10.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6220 unused Assets / (3.7 MB). Loaded Objects now: 7119.
+Memory consumption went from 153.9 MB to 150.2 MB.
+Total: 60.770500 ms (FindLiveObjects: 4.751100 ms CreateObjectMapping: 1.938300 ms MarkObjects: 43.940600 ms  DeleteObjects: 10.135400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 269.687546 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/3.prefab
+  artifactKey: Guid(57b98f44a00fbce429284c88b6179917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/3.prefab using Guid(57b98f44a00fbce429284c88b6179917) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f74b8b7a46530f95dad5ccf3cb30e2d8') in 1.4903361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/14.prefab
+  artifactKey: Guid(94ed46bc24edf404d866285038f24641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/14.prefab using Guid(94ed46bc24edf404d866285038f24641) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '282cdae91379192d80209431da10147d') in 0.0767083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/11.prefab
+  artifactKey: Guid(b00208f06b04b2447af23a7247883af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/11.prefab using Guid(b00208f06b04b2447af23a7247883af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52af0d9ecc713804f17e3127b4a64d37') in 0.0770458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/1.prefab
+  artifactKey: Guid(2567255f9a679cd429a31eb02ba54ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/1.prefab using Guid(2567255f9a679cd429a31eb02ba54ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c92585edeff8f68eb54edf0c7e91be2f') in 0.080055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Prefabs/Complex/Crossroads_circ.prefab
+  artifactKey: Guid(d175b2d114b22ec43bdb82765e45905e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Prefabs/Complex/Crossroads_circ.prefab using Guid(d175b2d114b22ec43bdb82765e45905e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68edd816ae4c85a9ddfa52ed4f82bd53') in 1.3193643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 255
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/10.prefab
+  artifactKey: Guid(955bf00fba2fee14696800975b5622e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/10.prefab using Guid(955bf00fba2fee14696800975b5622e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd24a7d726275db2cd001ce9a627de22c') in 0.0977893 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/13.prefab
+  artifactKey: Guid(3e758f09cb4d777459433143fc3c7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/13.prefab using Guid(3e758f09cb4d777459433143fc3c7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ca08b2440def1de02b79071295a6c52') in 0.1434245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Prefabs/Other/Bench_1.prefab
+  artifactKey: Guid(f3e46b4b7b1590a4c87983b3645c9a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Prefabs/Other/Bench_1.prefab using Guid(f3e46b4b7b1590a4c87983b3645c9a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '280eff7f3156acaf21cdd19efdb8e8a1') in 0.5026852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/3.1.prefab
+  artifactKey: Guid(04c19027b30bcaa489b3ec4b42040dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/3.1.prefab using Guid(04c19027b30bcaa489b3ec4b42040dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47d02d67d49625a7d4f413f7be412ea7') in 0.2939003 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Prefabs/Other/Cafe_chair_1.prefab
+  artifactKey: Guid(9a2cc7ad1a225a5419653f6000df779b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Prefabs/Other/Cafe_chair_1.prefab using Guid(9a2cc7ad1a225a5419653f6000df779b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f99d87dfcc04e103653dc733fffd662') in 0.4922191 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/7.prefab
+  artifactKey: Guid(ae79364aca7e6e74b8b8d8300b504d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/7.prefab using Guid(ae79364aca7e6e74b8b8d8300b504d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e6b6459e41567ff9c8fd70adc6da409') in 0.1013624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/4.prefab
+  artifactKey: Guid(75ce498590d12b14b97bb91249eee61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/4.prefab using Guid(75ce498590d12b14b97bb91249eee61b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3def8868cca3eb9f5c9dbde628aaa6be') in 0.0637382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/WhiteCity/Models
+  artifactKey: Guid(316ec03175cd0624888999c9e15e0657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models using Guid(316ec03175cd0624888999c9e15e0657) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5975c6421356ad76dfdfe5cb731e1a46') in 0.0024035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Prefabs/Complex/Crossroads_1.prefab
+  artifactKey: Guid(33ae3a99eddf3ea469439cebc3eb3d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Prefabs/Complex/Crossroads_1.prefab using Guid(33ae3a99eddf3ea469439cebc3eb3d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ac18c1088b66163c2f153c1e845889a') in 0.2684715 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 776
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/13.prefab
+  artifactKey: Guid(f969ce493f8b49442baa03271e7f6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/13.prefab using Guid(f969ce493f8b49442baa03271e7f6cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1cf8fd09ed60ead41031745ead4921c') in 0.0877339 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/8.prefab
+  artifactKey: Guid(29a990a110c2374418a2cace93ed34c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/8.prefab using Guid(29a990a110c2374418a2cace93ed34c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb1335727122f91b4f44ec49ccac883a') in 0.0976025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIButton.prefab
+  artifactKey: Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIButton.prefab using Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '403461c66e7378bd4de296c4bcbb6760') in 0.1272477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab
+  artifactKey: Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab using Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e58ba464beb7a6b658d3fb1aeb88eb1') in 0.2769192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 612
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/WhiteCity/Models/Buildings/7.fbx
+  artifactKey: Guid(6379b00f66e16cd49b9df04eece629a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/7.fbx using Guid(6379b00f66e16cd49b9df04eece629a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81e638a322555f099dfb09edd1f58189') in 0.1962731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/WhiteCity/Models/Buildings
+  artifactKey: Guid(a744737932857204a9704b146dba42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings using Guid(a744737932857204a9704b146dba42ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e17183428e7389247aeb8310a0f1cb26') in 0.0019692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/WhiteCity/Models/Buildings/9.fbx
+  artifactKey: Guid(f637800949c72bf4c838823bdf15e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/9.fbx using Guid(f637800949c72bf4c838823bdf15e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '246a06f5a877bc05392c54de78eaf13f') in 0.1108623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/WhiteCity/Models/Buildings/6.fbx
+  artifactKey: Guid(4151a6192219ff249b121c536513d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/6.fbx using Guid(4151a6192219ff249b121c536513d8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5bef5214c409b658d86e85dbbd6e0edc') in 0.1426177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/WhiteCity/Models/Buildings/p5-8.fbx
+  artifactKey: Guid(f01b243fd257015438c2950cdbc4e872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/p5-8.fbx using Guid(f01b243fd257015438c2950cdbc4e872) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f128bcd5fc4578e0f2313820cd092da9') in 0.1072047 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/WhiteCity/Models/Buildings/3-1.fbx
+  artifactKey: Guid(016d566e117d8fd43be08461a2df3027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/3-1.fbx using Guid(016d566e117d8fd43be08461a2df3027) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29fe4e192619b499cba3865836c652b4') in 0.1258516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIColor.prefab
+  artifactKey: Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIColor.prefab using Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b11cc7ab196a8b20d4fb6ba9dbd48c2c') in 0.0223404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 82
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Prefabs/Roads/Crossroads_1_lines_walk.prefab
+  artifactKey: Guid(566725c8dfb238f419a8e9342ffaab05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Prefabs/Roads/Crossroads_1_lines_walk.prefab using Guid(566725c8dfb238f419a8e9342ffaab05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d80b3f35dbbaf1b2a742c052c667bc3') in 0.1358313 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings/3.prefab
+  artifactKey: Guid(b8800faccef09f047b9aab74ce0d163d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings/3.prefab using Guid(b8800faccef09f047b9aab74ce0d163d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93401a7e9b6e01c6b085ebf2e3127282') in 0.0629974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/WhiteCity/Models/Buildings/4.fbx
+  artifactKey: Guid(6bf94840710cc534ca5c718dd3733c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/4.fbx using Guid(6bf94840710cc534ca5c718dd3733c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a1117fddb16d764438c20ec9522c7a4') in 0.0822581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000615 seconds.
+  path: Assets/WhiteCity/Prefabs/Roof/9.prefab
+  artifactKey: Guid(9897a463ddffd62459d60fd7ab2365a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Roof/9.prefab using Guid(9897a463ddffd62459d60fd7ab2365a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6d729de691b53558a4b7073bc405c96') in 0.1076155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUICanvas.prefab
+  artifactKey: Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUICanvas.prefab using Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '175d7993f43f7cffde76f8ed571f63dc') in 0.9760248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1965
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.833473 seconds.
+  path: Assets/WhiteCity/Models/Roof
+  artifactKey: Guid(05b3472e991e358409bd9f307d96d198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof using Guid(05b3472e991e358409bd9f307d96d198) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23a092849a7c7e89ec6404afe11e8df1') in 0.0034903 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004422 seconds.
+  path: Assets/WhiteCity/Models/Roof/p1.fbx
+  artifactKey: Guid(6ad9d82f1af25f34ab6557c3d627a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p1.fbx using Guid(6ad9d82f1af25f34ab6557c3d627a431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2b1642304a280b91e0655a905daa206') in 0.0889322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-8.fbx
+  artifactKey: Guid(950480bb54a9ba444a1dd81ec030d0f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-8.fbx using Guid(950480bb54a9ba444a1dd81ec030d0f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b92bf69a69f880544d0af1d9708c6f44') in 0.0705822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-7.fbx
+  artifactKey: Guid(f4b691195c179e945ac8f00a797961b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-7.fbx using Guid(f4b691195c179e945ac8f00a797961b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e750769987510c57efc6ffed7018b21b') in 0.0725214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-5.fbx
+  artifactKey: Guid(42152e0561545d64483b0f93dfbc9589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-5.fbx using Guid(42152e0561545d64483b0f93dfbc9589) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '471bccc0938d1c9d8564a57a1f3d11de') in 0.0790314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/WhiteCity/Models/Roof/p4-2.fbx
+  artifactKey: Guid(f6561f1799d8499409f7b6820d982e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p4-2.fbx using Guid(f6561f1799d8499409f7b6820d982e63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a98a973b0fef6359a4b3362e525b68f') in 0.0773204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/WhiteCity/Models/Roof/p5-7.fbx
+  artifactKey: Guid(fb43c86eec07dd54eaf35d4cd3995ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p5-7.fbx using Guid(fb43c86eec07dd54eaf35d4cd3995ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e28e9da0f4f51e477be58d386704ef1') in 0.0756922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-6.fbx
+  artifactKey: Guid(5529ec8d6f2af7a4194ea427aaf4f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-6.fbx using Guid(5529ec8d6f2af7a4194ea427aaf4f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '819375c9c358f9bfa9d0bc0f9b62566d') in 0.1254181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/WhiteCity/Models/Roof/p5-5.fbx
+  artifactKey: Guid(3934c7a696d16b34e8892801fdda0e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p5-5.fbx using Guid(3934c7a696d16b34e8892801fdda0e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e117d1a08dac4f4e7af9e96610d65a9e') in 0.1322937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-3.fbx
+  artifactKey: Guid(3c441fe23a37ecc4cb2fc3255cef539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-3.fbx using Guid(3c441fe23a37ecc4cb2fc3255cef539e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b56d075ae092516364e69a23c61de64') in 0.0939756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/WhiteCity/Models/Roof/p3-2.fbx
+  artifactKey: Guid(8f8f570417427cc47b7f89261cab438e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Roof/p3-2.fbx using Guid(8f8f570417427cc47b7f89261cab438e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f22980b992cf676d77bb8887877a6bb') in 0.1144549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.715724 seconds.
+  path: Assets/WhiteCity/Offer/Ads
+  artifactKey: Guid(477e9d6e514f48042ba797003508ae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Offer/Ads using Guid(477e9d6e514f48042ba797003508ae85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70665629abc151539895a5eb2c66017a') in 0.0036174 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007005 seconds.
+  path: Assets/WhiteCity/Offer/Ads/ad1.psd
+  artifactKey: Guid(33fee76768048ad4abed19d386311b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Offer/Ads/ad1.psd using Guid(33fee76768048ad4abed19d386311b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0da8103062a643b9d5df719d2b11bed3') in 0.1122717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.501844 seconds.
+  path: Assets/WhiteCity/Scenes
+  artifactKey: Guid(e62473e778be21c4ab078a36a3feb410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Scenes using Guid(e62473e778be21c4ab078a36a3feb410) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c03e59ca129aff3c4b01fe099c01c15b') in 0.0038428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.945212 seconds.
+  path: Assets/WhiteCity/Scenes/Sample.unity
+  artifactKey: Guid(1a4e37fe1d5bcef448eaacca8ef81fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Scenes/Sample.unity using Guid(1a4e37fe1d5bcef448eaacca8ef81fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e48f7b26af8899d5e83f4f50c7669862') in 0.001318 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.651111 seconds.
+  path: Assets/WhiteCity/Prefabs/Buildings
+  artifactKey: Guid(2682b994974452d4394e541983fa7e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Prefabs/Buildings using Guid(2682b994974452d4394e541983fa7e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e46c55fa09b028bb04fbedc7063a41da') in 0.0042159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.246555 seconds.
+  path: Assets/WhiteCity/Textures
+  artifactKey: Guid(c0ae8039715e97240a79dcce36469e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures using Guid(c0ae8039715e97240a79dcce36469e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2760753ad9520581bf6ea315c9455491') in 0.008926 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/WhiteCity/Textures/Wall.png
+  artifactKey: Guid(339a9f1f77ad1c947ac4998979e046f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Wall.png using Guid(339a9f1f77ad1c947ac4998979e046f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cd906d124c94dda4a2711926c1eeb42') in 0.0552544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.413799 seconds.
+  path: Assets/WhiteCity/Textures/Roof
+  artifactKey: Guid(ed12335e438b9034090d1a63b4632aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Roof using Guid(ed12335e438b9034090d1a63b4632aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2632260bf06265eda723285e53fce9c7') in 0.0028258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.440964 seconds.
+  path: Assets/WhiteCity/Textures/Roof/p1.png
+  artifactKey: Guid(6f1a86f841d29354ab6cdd061bc58722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Roof/p1.png using Guid(6f1a86f841d29354ab6cdd061bc58722) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f354a98b73c798398befc1adbc44ef95') in 0.0831097 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/WhiteCity/Textures/Roof/p5.png
+  artifactKey: Guid(c83f192dd38700d4b91f1a956a97827d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Roof/p5.png using Guid(c83f192dd38700d4b91f1a956a97827d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a46ad1f8c508267a4ab65268dd310e7') in 0.0562145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.616632 seconds.
+  path: Assets/WhiteCity/Textures/Lensflare
+  artifactKey: Guid(1f672b277e2d219478032358dcea4d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Lensflare using Guid(1f672b277e2d219478032358dcea4d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6cc5b63c5c0fc42d2252e155aee0c7a9') in 0.002966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035102 seconds.
+  path: Assets/WhiteCity/Textures/Lensflare/Sun.flare
+  artifactKey: Guid(67782eb9ec7569d4bb518dc8232c5bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Lensflare/Sun.flare using Guid(67782eb9ec7569d4bb518dc8232c5bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa5a64592f0b328f592a20f229f4def0') in 0.0036128 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.023852 seconds.
+  path: Assets/WhiteCity/Textures/Buildings
+  artifactKey: Guid(f38067aea2883b54a99335fa01b22ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings using Guid(f38067aea2883b54a99335fa01b22ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89bf3c496b79795ba2f4b5cd4a2b6fa7') in 0.0019679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/1.png
+  artifactKey: Guid(32003ac298524ed4f9bb893d2269dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/1.png using Guid(32003ac298524ed4f9bb893d2269dc75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74d638bfbdc47c17706c0c9648937544') in 0.0650238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/5.png
+  artifactKey: Guid(449d38dc743aea44eb0b79bb4d3912c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/5.png using Guid(449d38dc743aea44eb0b79bb4d3912c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70aaeb890473cbdcd19e3c05ee17af97') in 0.0643974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/8.png
+  artifactKey: Guid(ba852b59c6ae3a74da474c5f4ad1935e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/8.png using Guid(ba852b59c6ae3a74da474c5f4ad1935e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cda71eee4197b316813f0128d009b2a8') in 0.064766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.255162 seconds.
+  path: Assets/WhiteCity/Materials/Wall.mat
+  artifactKey: Guid(31b04566c87b05741a5acdcd1e930b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Materials/Wall.mat using Guid(31b04566c87b05741a5acdcd1e930b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23f0d601ac4182c45d7115769502fac1') in 0.2201517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.665869 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials
+  artifactKey: Guid(3957b53ffa402544eb15b89022430caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials using Guid(3957b53ffa402544eb15b89022430caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7f3b55998b49b687afe60c96c8cc983') in 0.004491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009773 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/01 (15).mat
+  artifactKey: Guid(be1340931a27ee34491005209e9ac1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/01 (15).mat using Guid(be1340931a27ee34491005209e9ac1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '187e16540512cb1bd4f418f56ec73ed0') in 0.0312137 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b2.mat
+  artifactKey: Guid(c0e5deab59a7c22429e6cf07ac305842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b2.mat using Guid(c0e5deab59a7c22429e6cf07ac305842) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '234ea601bd6a6d268f0be86079818c8c') in 0.0518591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b3-2.mat
+  artifactKey: Guid(1e2f5a37bec567c4fa4483c075b4b840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b3-2.mat using Guid(1e2f5a37bec567c4fa4483c075b4b840) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd49ce7e25603f8913cd4fece6a57e31a') in 0.0283835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b4.mat
+  artifactKey: Guid(c823db213c09c834b9291fa879c9e5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b4.mat using Guid(c823db213c09c834b9291fa879c9e5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb1b168db29b74abb15763d61e1daefc') in 0.0403959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b1-1.mat
+  artifactKey: Guid(3be9231021208864199d8bab6423be59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b1-1.mat using Guid(3be9231021208864199d8bab6423be59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2ab1a4eca527732d6245186fef1eb8f') in 0.0420446 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat
+  artifactKey: Guid(d09b485b81c6a014c81b8ea275d46ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat using Guid(d09b485b81c6a014c81b8ea275d46ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08763f716c6d9b93e5d22f3d669edb27') in 0.0431307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat
+  artifactKey: Guid(529c0cfbd00130d47800f21bc08f039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat using Guid(529c0cfbd00130d47800f21bc08f039e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bdc2a4d7f5b6755db0ebd2685d1c7b83') in 0.0294141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/Wall.mat
+  artifactKey: Guid(710e4b660b5be7243a65dcba43c58953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/Wall.mat using Guid(710e4b660b5be7243a65dcba43c58953) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ff560245c1ea631db31ad9aa90a754b') in 0.0378382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b7-1.mat
+  artifactKey: Guid(9f723c8f07f957e4da495e12b2779ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b7-1.mat using Guid(9f723c8f07f957e4da495e12b2779ca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'de179367a92af715c47d61a07acba8df') in 0.0351262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/4-2.mat
+  artifactKey: Guid(475d2e2c3ff9b3e4eb3d9d59f2e072a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/4-2.mat using Guid(475d2e2c3ff9b3e4eb3d9d59f2e072a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a41a96264126e2dbf38242e8f9dd963') in 0.0449596 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/07 (6).mat
+  artifactKey: Guid(7d287c1a1581a1d45820c00d2619e995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/07 (6).mat using Guid(7d287c1a1581a1d45820c00d2619e995) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f1920782abc1e5f1880181d2abbe5c7') in 0.042287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b9-1.mat
+  artifactKey: Guid(abaff2e6c6f61e248a1de0b7581c0ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b9-1.mat using Guid(abaff2e6c6f61e248a1de0b7581c0ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4dff766e486c2655cb63e9ac885dd57a') in 0.0333073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b7.mat
+  artifactKey: Guid(94b8ea75ad770ae4a8692954d7b3e565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b7.mat using Guid(94b8ea75ad770ae4a8692954d7b3e565) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddeee931fcf0143b8d1d3f59f74d26e4') in 0.0366344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/c3.mat
+  artifactKey: Guid(ca157491ae27260468fd6c253e26a5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/c3.mat using Guid(ca157491ae27260468fd6c253e26a5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d8602886e60f2583fd377af190e77e8') in 0.0576266 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat
+  artifactKey: Guid(00d0da6cbf30c1440bce2c1a4dfea6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat using Guid(00d0da6cbf30c1440bce2c1a4dfea6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26c703a702d20ef24c479fd3a17ac01f') in 0.0419401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/WhiteCity/Models/Buildings/Materials/b1.mat
+  artifactKey: Guid(f632b1c8557e32d43bff941c3a868a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Models/Buildings/Materials/b1.mat using Guid(f632b1c8557e32d43bff941c3a868a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27798f9eccb3331978bda6b4c677a9db') in 0.042641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.815495 seconds.
+  path: Assets/WhiteCity/Textures/Buildings/Materials
+  artifactKey: Guid(65b0c0ca81ecaa4449e804937f0205d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WhiteCity/Textures/Buildings/Materials using Guid(65b0c0ca81ecaa4449e804937f0205d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e5fb4821628e1931d6a39f9fea3da2e') in 0.0028759 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.800289 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack
+  artifactKey: Guid(f25598ed88e50ad43ade66900079c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack using Guid(f25598ed88e50ad43ade66900079c668) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '673b9ba719d400a21ffc20ccd90d372c') in 0.0081927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.459265 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials
+  artifactKey: Guid(35f533fa1497c4946bb8448868cbfe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials using Guid(35f533fa1497c4946bb8448868cbfe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a258d1c965f9a83f62c571ee9ff5ac06') in 0.0033203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor1.mat
+  artifactKey: Guid(e4f8e5cdfc993b0468240126c2e4c256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor1.mat using Guid(e4f8e5cdfc993b0468240126c2e4c256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9fae29981beac475e3bfd12760f373f1') in 0.201044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor3.mat
+  artifactKey: Guid(685e760789548fd4ba942f4f49035b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor3.mat using Guid(685e760789548fd4ba942f4f49035b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f12fe8a1d7a3d89d16e4b66db160001') in 0.0501064 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingEmission1.mat
+  artifactKey: Guid(0eacbd7b27e53a4499419e14b675af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingEmission1.mat using Guid(0eacbd7b27e53a4499419e14b675af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0559d743da48691da3b881c387052e14') in 0.0740689 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor5.mat
+  artifactKey: Guid(f5b6d2ef6729e5b4dbb8e3633e3f6be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor5.mat using Guid(f5b6d2ef6729e5b4dbb8e3633e3f6be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8dee3a876c48cae8f1899dadc075b24') in 0.0603344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor4.mat
+  artifactKey: Guid(167e94cce17d45544a9a446944ebd239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor4.mat using Guid(167e94cce17d45544a9a446944ebd239) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b2deaa1f5878387f6f0b249aa1bf33c') in 0.0613855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000806 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensEmission2.mat
+  artifactKey: Guid(377c136d85f556d4a86ecfcdd8e801af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensEmission2.mat using Guid(377c136d85f556d4a86ecfcdd8e801af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bec835afe00c54e0b4e8d92011356f31') in 0.0593365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6215 unused Assets / (4.7 MB). Loaded Objects now: 7235.
+Memory consumption went from 160.6 MB to 155.9 MB.
+Total: 787.147600 ms (FindLiveObjects: 5.404000 ms CreateObjectMapping: 0.682900 ms MarkObjects: 769.369700 ms  DeleteObjects: 11.683900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  3.930 seconds
+Refreshing native plugins compatible for Editor in 5.30 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.080 seconds
+Domain Reload Profiling: 6021ms
+	BeginReloadAssembly (902ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (115ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (339ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (70ms)
+	LoadAllAssembliesAndSetupDomain (2882ms)
+		LoadAssemblies (2487ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (687ms)
+			TypeCache.Refresh (71ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (541ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (2080ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1179ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (467ms)
+			ProcessInitializeOnLoadAttributes (611ms)
+			ProcessInitializeOnLoadMethodAttributes (79ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6219 unused Assets / (3.4 MB). Loaded Objects now: 7146.
+Memory consumption went from 154.8 MB to 151.3 MB.
+Total: 17.011600 ms (FindLiveObjects: 1.245600 ms CreateObjectMapping: 0.513300 ms MarkObjects: 12.068800 ms  DeleteObjects: 3.180100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in 17.028 seconds
+Refreshing native plugins compatible for Editor in 8.39 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.912 seconds
+Domain Reload Profiling: 20967ms
+	BeginReloadAssembly (6049ms)
+		ExecutionOrderSort (2ms)
+		DisableScriptedObjects (268ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (6ms)
+		CreateAndSetChildDomain (3113ms)
+	RebuildCommonClasses (423ms)
+	RebuildNativeTypeToScriptingClass (53ms)
+	initialDomainReloadingComplete (193ms)
+	LoadAllAssembliesAndSetupDomain (10334ms)
+		LoadAssemblies (10551ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1459ms)
+			TypeCache.Refresh (166ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (1166ms)
+			ResolveRequiredComponents (68ms)
+	FinalizeReload (3913ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2998ms)
+			LogAssemblyErrors (1ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (31ms)
+			BeforeProcessingInitializeOnLoad (695ms)
+			ProcessInitializeOnLoadAttributes (1796ms)
+			ProcessInitializeOnLoadMethodAttributes (437ms)
+			AfterProcessingInitializeOnLoad (20ms)
+			EditorAssembliesLoaded (5ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (99ms)
+Refreshing native plugins compatible for Editor in 12.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (6.0 MB). Loaded Objects now: 7153.
+Memory consumption went from 156.3 MB to 150.4 MB.
+Total: 123.777200 ms (FindLiveObjects: 15.541200 ms CreateObjectMapping: 5.965800 ms MarkObjects: 69.944400 ms  DeleteObjects: 32.020600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 730.921721 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack
+  artifactKey: Guid(ee31e3520aef5ea478d6c6a795ee8f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack using Guid(ee31e3520aef5ea478d6c6a795ee8f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93ae30984ec7d380771ff2209eb300db') in 0.1620377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002911 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models
+  artifactKey: Guid(a04256c6863a00944bdd1b37748ade25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models using Guid(a04256c6863a00944bdd1b37748ade25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5be804179e0c4ca799834126dbd9def9') in 0.0127536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Bridge((4)).fbx
+  artifactKey: Guid(d1ea7209b0d71cf459d9fe1b2bd5eb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Bridge((4)).fbx using Guid(d1ea7209b0d71cf459d9fe1b2bd5eb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6cc3057745891571ae8faa52a1abbc68') in 6.5005901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BigParking((4)).fbx
+  artifactKey: Guid(0148c860a21f1fd47a7a8675c0dcd090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BigParking((4)).fbx using Guid(0148c860a21f1fd47a7a8675c0dcd090) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a160702311ecd9eb394c338ec45ed86e') in 0.1606142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000817 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Turn(4).fbx
+  artifactKey: Guid(935d694eb3dd24948902c55e035fae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Turn(4).fbx using Guid(935d694eb3dd24948902c55e035fae7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b9f11c4e62cc774021c7b7af9520f144') in 0.1964345 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeCross(4(4)).fbx
+  artifactKey: Guid(aa4a0df8a71465a42a463703b996f399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeCross(4(4)).fbx using Guid(aa4a0df8a71465a42a463703b996f399) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '114edc7f6af9b04ec44e0fb922bec8f0') in 0.2350508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/1(4).fbx
+  artifactKey: Guid(6a43cb144eb13ca479c5ed1a1a80b0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/1(4).fbx using Guid(6a43cb144eb13ca479c5ed1a1a80b0fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7a8eed8477c80bc4236abe69f319c19') in 0.1932506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeFence((4)).fbx
+  artifactKey: Guid(335c5f417de97e74a925f853d679a9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeFence((4)).fbx using Guid(335c5f417de97e74a925f853d679a9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c00a96e87ec07db45f249c45090c3794') in 0.1895506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeFence((Сlimb((4))).fbx
+  artifactKey: Guid(faa7262e77ca37a49addc9014bf3818b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/BridgeFence((Сlimb((4))).fbx using Guid(faa7262e77ca37a49addc9014bf3818b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c7bb66551e6630e6050384124987cc33') in 0.2669425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Bridge((Сlimb(4))).fbx
+  artifactKey: Guid(981e58b4995db864a89c1e5a13cfe075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Bridge((Сlimb(4))).fbx using Guid(981e58b4995db864a89c1e5a13cfe075) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ac4f669a1afad59ab1af1940008906b') in 0.2199461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Сlimb((4)).fbx
+  artifactKey: Guid(d2b8b14f1a12d784aa1d04d83d536d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/Сlimb((4)).fbx using Guid(d2b8b14f1a12d784aa1d04d83d536d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb078d808cbf9ea29a577734cad60b06') in 0.0749243 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/1(4)0.5.fbx
+  artifactKey: Guid(530644779cb1368498c506659352639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Models/4Lines/1(4)0.5.fbx using Guid(530644779cb1368498c506659352639c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be0e5595ed7f7d8a3a18823c0de34bd7') in 0.1174471 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.595017 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Models
+  artifactKey: Guid(9bcd45608e6fdb644bb92d059dffffe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Models using Guid(9bcd45608e6fdb644bb92d059dffffe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dce64f20dbbc49c2c7c8e2d822126206') in 0.0096249 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in 12.503 seconds
+Refreshing native plugins compatible for Editor in 10.21 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.627 seconds
+Domain Reload Profiling: 16160ms
+	BeginReloadAssembly (6393ms)
+		ExecutionOrderSort (11ms)
+		DisableScriptedObjects (1278ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (12ms)
+		CreateAndSetChildDomain (2151ms)
+	RebuildCommonClasses (228ms)
+	RebuildNativeTypeToScriptingClass (40ms)
+	initialDomainReloadingComplete (222ms)
+	LoadAllAssembliesAndSetupDomain (5643ms)
+		LoadAssemblies (5119ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2048ms)
+			TypeCache.Refresh (137ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1799ms)
+			ResolveRequiredComponents (67ms)
+	FinalizeReload (3634ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2623ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (38ms)
+			BeforeProcessingInitializeOnLoad (543ms)
+			ProcessInitializeOnLoadAttributes (1565ms)
+			ProcessInitializeOnLoadMethodAttributes (417ms)
+			AfterProcessingInitializeOnLoad (40ms)
+			EditorAssembliesLoaded (8ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (112ms)
+Refreshing native plugins compatible for Editor in 4.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6224 unused Assets / (3.7 MB). Loaded Objects now: 7176.
+Memory consumption went from 156.5 MB to 152.8 MB.
+Total: 45.266000 ms (FindLiveObjects: 3.401400 ms CreateObjectMapping: 2.061500 ms MarkObjects: 27.098400 ms  DeleteObjects: 12.697600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1029.292822 seconds.
+  path: Assets/Models/source
+  artifactKey: Guid(c66e40d2a1810ec488cd9e1d71298917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/source using Guid(c66e40d2a1810ec488cd9e1d71298917) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3520d607c198c783744873bfe2cb3304') in 0.8270538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in 14.257 seconds
+Refreshing native plugins compatible for Editor in 4.82 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.949 seconds
+Domain Reload Profiling: 17281ms
+	BeginReloadAssembly (9409ms)
+		ExecutionOrderSort (6ms)
+		DisableScriptedObjects (1035ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (16ms)
+		CreateAndSetChildDomain (4139ms)
+	RebuildCommonClasses (148ms)
+	RebuildNativeTypeToScriptingClass (61ms)
+	initialDomainReloadingComplete (300ms)
+	LoadAllAssembliesAndSetupDomain (4406ms)
+		LoadAssemblies (3729ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2338ms)
+			TypeCache.Refresh (142ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (2037ms)
+			ResolveRequiredComponents (57ms)
+	FinalizeReload (2958ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2061ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (18ms)
+			BeforeProcessingInitializeOnLoad (542ms)
+			ProcessInitializeOnLoadAttributes (1119ms)
+			ProcessInitializeOnLoadMethodAttributes (338ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (15ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (117ms)
+Refreshing native plugins compatible for Editor in 4.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.1 MB). Loaded Objects now: 7179.
+Memory consumption went from 156.4 MB to 152.3 MB.
+Total: 55.985400 ms (FindLiveObjects: 3.849200 ms CreateObjectMapping: 3.348700 ms MarkObjects: 37.239000 ms  DeleteObjects: 11.541200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.652 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.395 seconds
+Domain Reload Profiling: 7061ms
+	BeginReloadAssembly (708ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (202ms)
+	RebuildCommonClasses (97ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (76ms)
+	LoadAllAssembliesAndSetupDomain (2756ms)
+		LoadAssemblies (2424ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (675ms)
+			TypeCache.Refresh (37ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (579ms)
+			ResolveRequiredComponents (38ms)
+	FinalizeReload (3397ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2667ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (365ms)
+			ProcessInitializeOnLoadAttributes (1768ms)
+			ProcessInitializeOnLoadMethodAttributes (479ms)
+			AfterProcessingInitializeOnLoad (33ms)
+			EditorAssembliesLoaded (5ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (126ms)
+Refreshing native plugins compatible for Editor in 2.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.2 MB). Loaded Objects now: 7182.
+Memory consumption went from 156.5 MB to 152.3 MB.
+Total: 54.310000 ms (FindLiveObjects: 8.173000 ms CreateObjectMapping: 2.771100 ms MarkObjects: 26.157000 ms  DeleteObjects: 17.189300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  4.086 seconds
+Refreshing native plugins compatible for Editor in 2.22 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.691 seconds
+Domain Reload Profiling: 7840ms
+	BeginReloadAssembly (1004ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (55ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (365ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (3032ms)
+		LoadAssemblies (2599ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (738ms)
+			TypeCache.Refresh (28ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (585ms)
+			ResolveRequiredComponents (47ms)
+	FinalizeReload (3693ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2737ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (30ms)
+			BeforeProcessingInitializeOnLoad (610ms)
+			ProcessInitializeOnLoadAttributes (1649ms)
+			ProcessInitializeOnLoadMethodAttributes (390ms)
+			AfterProcessingInitializeOnLoad (35ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (97ms)
+Refreshing native plugins compatible for Editor in 6.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (3.9 MB). Loaded Objects now: 7185.
+Memory consumption went from 156.5 MB to 152.7 MB.
+Total: 69.405100 ms (FindLiveObjects: 8.858800 ms CreateObjectMapping: 2.733800 ms MarkObjects: 44.376800 ms  DeleteObjects: 13.424600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  4.169 seconds
+Refreshing native plugins compatible for Editor in 3.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.334 seconds
+Domain Reload Profiling: 8577ms
+	BeginReloadAssembly (1045ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (73ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (384ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (94ms)
+	LoadAllAssembliesAndSetupDomain (2984ms)
+		LoadAssemblies (2438ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (823ms)
+			TypeCache.Refresh (27ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (675ms)
+			ResolveRequiredComponents (54ms)
+	FinalizeReload (4337ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3306ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (34ms)
+			BeforeProcessingInitializeOnLoad (656ms)
+			ProcessInitializeOnLoadAttributes (1940ms)
+			ProcessInitializeOnLoadMethodAttributes (641ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (100ms)
+Refreshing native plugins compatible for Editor in 2.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.3 MB). Loaded Objects now: 7188.
+Memory consumption went from 156.6 MB to 152.2 MB.
+Total: 101.725100 ms (FindLiveObjects: 7.734700 ms CreateObjectMapping: 7.834000 ms MarkObjects: 56.576900 ms  DeleteObjects: 29.568500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  7.282 seconds
+Refreshing native plugins compatible for Editor in 2.68 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.981 seconds
+Domain Reload Profiling: 11327ms
+	BeginReloadAssembly (2643ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (1074ms)
+	RebuildCommonClasses (197ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (174ms)
+	LoadAllAssembliesAndSetupDomain (4296ms)
+		LoadAssemblies (4218ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1195ms)
+			TypeCache.Refresh (60ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1020ms)
+			ResolveRequiredComponents (40ms)
+	FinalizeReload (3983ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3248ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (15ms)
+			BeforeProcessingInitializeOnLoad (443ms)
+			ProcessInitializeOnLoadAttributes (2258ms)
+			ProcessInitializeOnLoadMethodAttributes (475ms)
+			AfterProcessingInitializeOnLoad (41ms)
+			EditorAssembliesLoaded (6ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (120ms)
+Refreshing native plugins compatible for Editor in 5.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.5 MB). Loaded Objects now: 7191.
+Memory consumption went from 156.6 MB to 152.1 MB.
+Total: 69.620300 ms (FindLiveObjects: 8.750000 ms CreateObjectMapping: 2.905800 ms MarkObjects: 40.792600 ms  DeleteObjects: 17.167500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.491 seconds
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.882 seconds
+Domain Reload Profiling: 4390ms
+	BeginReloadAssembly (694ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (242ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (1603ms)
+		LoadAssemblies (1420ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (441ms)
+			TypeCache.Refresh (23ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (376ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (1883ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1414ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (13ms)
+			BeforeProcessingInitializeOnLoad (352ms)
+			ProcessInitializeOnLoadAttributes (849ms)
+			ProcessInitializeOnLoadMethodAttributes (180ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (63ms)
+Refreshing native plugins compatible for Editor in 2.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.4 MB). Loaded Objects now: 7194.
+Memory consumption went from 156.6 MB to 152.2 MB.
+Total: 64.557400 ms (FindLiveObjects: 10.208100 ms CreateObjectMapping: 5.907100 ms MarkObjects: 32.567700 ms  DeleteObjects: 15.859700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  6.167 seconds
+Refreshing native plugins compatible for Editor in 6.50 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.942 seconds
+Domain Reload Profiling: 10120ms
+	BeginReloadAssembly (1039ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (47ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (350ms)
+	RebuildCommonClasses (101ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (140ms)
+	LoadAllAssembliesAndSetupDomain (4862ms)
+		LoadAssemblies (4321ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (962ms)
+			TypeCache.Refresh (85ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (826ms)
+			ResolveRequiredComponents (28ms)
+	FinalizeReload (3944ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3060ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (24ms)
+			BeforeProcessingInitializeOnLoad (653ms)
+			ProcessInitializeOnLoadAttributes (1855ms)
+			ProcessInitializeOnLoadMethodAttributes (498ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (4ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (89ms)
+Refreshing native plugins compatible for Editor in 4.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (3.9 MB). Loaded Objects now: 7197.
+Memory consumption went from 156.7 MB to 152.8 MB.
+Total: 72.891800 ms (FindLiveObjects: 11.025300 ms CreateObjectMapping: 6.118800 ms MarkObjects: 41.371100 ms  DeleteObjects: 14.366400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  7.292 seconds
+Refreshing native plugins compatible for Editor in 12.01 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.757 seconds
+Domain Reload Profiling: 12104ms
+	BeginReloadAssembly (1992ms)
+		ExecutionOrderSort (5ms)
+		DisableScriptedObjects (273ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (429ms)
+	RebuildCommonClasses (108ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (5160ms)
+		LoadAssemblies (4292ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1538ms)
+			TypeCache.Refresh (125ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1306ms)
+			ResolveRequiredComponents (65ms)
+	FinalizeReload (4760ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3545ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (87ms)
+			BeforeProcessingInitializeOnLoad (1188ms)
+			ProcessInitializeOnLoadAttributes (1774ms)
+			ProcessInitializeOnLoadMethodAttributes (431ms)
+			AfterProcessingInitializeOnLoad (35ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (96ms)
+Refreshing native plugins compatible for Editor in 8.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (4.2 MB). Loaded Objects now: 7200.
+Memory consumption went from 156.7 MB to 152.5 MB.
+Total: 64.801100 ms (FindLiveObjects: 6.333700 ms CreateObjectMapping: 2.093200 ms MarkObjects: 38.551200 ms  DeleteObjects: 17.812900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.312 seconds
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.586 seconds
+Domain Reload Profiling: 5920ms
+	BeginReloadAssembly (737ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (220ms)
+	RebuildCommonClasses (79ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (83ms)
+	LoadAllAssembliesAndSetupDomain (2404ms)
+		LoadAssemblies (1876ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (847ms)
+			TypeCache.Refresh (48ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (726ms)
+			ResolveRequiredComponents (45ms)
+	FinalizeReload (2588ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1881ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (18ms)
+			BeforeProcessingInitializeOnLoad (375ms)
+			ProcessInitializeOnLoadAttributes (1132ms)
+			ProcessInitializeOnLoadMethodAttributes (328ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (102ms)
+Refreshing native plugins compatible for Editor in 4.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6223 unused Assets / (3.9 MB). Loaded Objects now: 7203.
+Memory consumption went from 156.8 MB to 152.8 MB.
+Total: 72.401100 ms (FindLiveObjects: 5.150300 ms CreateObjectMapping: 3.706500 ms MarkObjects: 45.521800 ms  DeleteObjects: 18.013700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 860.385315 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other
+  artifactKey: Guid(bdd3f9fb6405126469fa307db5518705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other using Guid(bdd3f9fb6405126469fa307db5518705) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '261061864c42a74f542b0a3dd51d9caa') in 0.1257196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Cafe-chair-1.mat
+  artifactKey: Guid(a9d75633b554b0f42ad144d5f0336e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Cafe-chair-1.mat using Guid(a9d75633b554b0f42ad144d5f0336e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06d9e95378a6031598bf0edc9d41b1bf') in 3.3115787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_red_AlbedoGloss.png
+  artifactKey: Guid(6bebc08eb7c539543882e48d8be044ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_red_AlbedoGloss.png using Guid(6bebc08eb7c539543882e48d8be044ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa83b4a70f2c2a4a34b2c013f4759500') in 0.1722138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Cafe-table-1.mat
+  artifactKey: Guid(4d9e55684f3dcdf44ac69eb3fc195388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Cafe-table-1.mat using Guid(4d9e55684f3dcdf44ac69eb3fc195388) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e891c791acf12cb6ca32f123776a59d') in 0.1330194 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_Normal.png
+  artifactKey: Guid(0cb939d4b5a522a45b6960130d9c9c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_Normal.png using Guid(0cb939d4b5a522a45b6960130d9c9c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ea430cfdf53eeb03494d74107d729d2f') in 0.4306507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-light_AO.png
+  artifactKey: Guid(da43db929c6fd264883d411af5527f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-light_AO.png using Guid(da43db929c6fd264883d411af5527f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dac8caed87d6bc87c90be9ab0a689ee') in 0.091297 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-grill_Normal.png
+  artifactKey: Guid(89bab339e6bd2be418b403c9b5b267cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-grill_Normal.png using Guid(89bab339e6bd2be418b403c9b5b267cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '553e0da38ff6fda648500a7661356d5e') in 0.1032428 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Pole1.mat
+  artifactKey: Guid(8654194a4a9755d4aa0bd32d6fe0cd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Pole1.mat using Guid(8654194a4a9755d4aa0bd32d6fe0cd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0cbac7214bbffbb2a0401f2cbb201669') in 0.0624184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures
+  artifactKey: Guid(0730105f60c3ade41905dfa165e5b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures using Guid(0730105f60c3ade41905dfa165e5b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d4241e87e21f3bfe3ceddc504daef88') in 0.0059228 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Bench-1_Metall.png
+  artifactKey: Guid(ce64645c6c22994429b9cdb6fd570432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Bench-1_Metall.png using Guid(ce64645c6c22994429b9cdb6fd570432) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43ad6b37b376df8e3da0d82962f154fd') in 0.1058007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_Normal.png
+  artifactKey: Guid(d596410fab1394742a048eeeed80a915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_Normal.png using Guid(d596410fab1394742a048eeeed80a915) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f740d07528ecfdf2c0b0206f97ba894') in 0.1033197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-1_AlbedoGloss.png
+  artifactKey: Guid(271dcad24f902b249a7773fc0b239778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-1_AlbedoGloss.png using Guid(271dcad24f902b249a7773fc0b239778) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eab5daa69ca5883b3a3faec5efe25ca0') in 0.1072668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Tree-area-1_AlbedoGloss.png
+  artifactKey: Guid(2e14a30acdef89644ae0ef474531f9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Tree-area-1_AlbedoGloss.png using Guid(2e14a30acdef89644ae0ef474531f9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3bea11bf73ec75ae2f4704f02ae647d') in 0.0974343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-light_AlbedoGloss.png
+  artifactKey: Guid(1501206ad5b888744bef6bc8d058d6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-light_AlbedoGloss.png using Guid(1501206ad5b888744bef6bc8d058d6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '963c52d331eab13d7099b1af60fbb0a1') in 0.0819432 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_AO.png
+  artifactKey: Guid(32c36f70dd9d9524b97d61f53dc3e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_AO.png using Guid(32c36f70dd9d9524b97d61f53dc3e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5360deb8acf8e03b1efa674f28fc0ef1') in 0.0785341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Cafe-table-1_AlbedoGloss.png
+  artifactKey: Guid(e33a3ee07c5d0cf4db619c5919ec12aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Cafe-table-1_AlbedoGloss.png using Guid(e33a3ee07c5d0cf4db619c5919ec12aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e96ae58a329bf6611a73efbd3bde38a4') in 0.0808068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Tree-area-1_Normal.png
+  artifactKey: Guid(2b42e569b52785b45a0d2a09f65630e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Tree-area-1_Normal.png using Guid(2b42e569b52785b45a0d2a09f65630e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79f6cf75398bd511d04a7ac7e5209902') in 0.0963509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Sewer-grill.mat
+  artifactKey: Guid(eaf5240417f4c2046a2d35b26cdf4e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Sewer-grill.mat using Guid(eaf5240417f4c2046a2d35b26cdf4e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4e19d5195e9f3ae336ddabfdf7be8c64') in 0.0653962 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-cone_AO.png
+  artifactKey: Guid(35c2ddfe368e88a49b7e6befefecf070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-cone_AO.png using Guid(35c2ddfe368e88a49b7e6befefecf070) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e44769443b63fda44698523cafbb8e27') in 0.0767594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU-light_AlbedoGloss.png
+  artifactKey: Guid(ca3e2eeec3613754f90a24606fde8431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU-light_AlbedoGloss.png using Guid(ca3e2eeec3613754f90a24606fde8431) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8399dc6bfa1aa207fd2b4da2a4ec5107') in 0.0932256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Tree-1.mat
+  artifactKey: Guid(eb2526de915a6254fa658b21b6338e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Tree-1.mat using Guid(eb2526de915a6254fa658b21b6338e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb07996166edf2dff2161203c5c8f15b') in 0.073219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-hatch_AlbedoGloss.png
+  artifactKey: Guid(e4ef3596f32f7344f89c3678ee85f129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-hatch_AlbedoGloss.png using Guid(e4ef3596f32f7344f89c3678ee85f129) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33255ceeb53ec38a54e41fa8d4d6afa7') in 0.0840853 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-base_AlbedoGloss.png
+  artifactKey: Guid(2694b5728156e104eb9e32e42740bb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-base_AlbedoGloss.png using Guid(2694b5728156e104eb9e32e42740bb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0682d98489a0ecadef32dbca7b3ecefd') in 0.0738757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Hydrant.mat
+  artifactKey: Guid(be63a4af02790f44db4ca21d06a5db32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Hydrant.mat using Guid(be63a4af02790f44db4ca21d06a5db32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a6dd8fcfad0664d670d6fd66a66d00d8') in 0.0610489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU_AlbedoGloss.png
+  artifactKey: Guid(f09ad06ce36fde64a893e1e8c1814b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU_AlbedoGloss.png using Guid(f09ad06ce36fde64a893e1e8c1814b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2abd0eeeaaf726a37c3bf87c4a71cb8') in 0.071334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-1_Normal.png
+  artifactKey: Guid(94ce58bb592704547bcf0212b1e1551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Pole-1_Normal.png using Guid(94ce58bb592704547bcf0212b1e1551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f77b6d63f941c8bbe916712c4935642') in 0.0796768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_AlbedoGloss.png
+  artifactKey: Guid(b0afdc87d6ad6014f893624098468ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Trash-can-1_AlbedoGloss.png using Guid(b0afdc87d6ad6014f893624098468ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c1ba71eeddcf9c7ed718f83f0d9a83c') in 0.0772307 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_AO.png
+  artifactKey: Guid(af8a764ce2318b54089cf5270ec2ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Hydrant_AO.png using Guid(af8a764ce2318b54089cf5270ec2ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40114e8b86f742f4a02605a69c2f159f') in 0.0621669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Pole-light.mat
+  artifactKey: Guid(8b7309a6c788b664681a337f9101337e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Pole-light.mat using Guid(8b7309a6c788b664681a337f9101337e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '403e9e2cada9b09559d4d7b35aad6d00') in 0.0535416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Pole-base.mat
+  artifactKey: Guid(c253732cb67d0be46817dcd85cc34ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Pole-base.mat using Guid(c253732cb67d0be46817dcd85cc34ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ac378e0633c63763f66b72c96085338') in 0.0676697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU_Metall.png
+  artifactKey: Guid(434d258ed7b14ab4ea36d65f0781f5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Traffic-light-EU_Metall.png using Guid(434d258ed7b14ab4ea36d65f0781f5f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f64891574b072c0f72f5be1f1847e857') in 0.0853887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-grill_Metall.png
+  artifactKey: Guid(65a8af1a2079a9e4b8478e430b59605a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Other/Textures/Sewer-grill_Metall.png using Guid(65a8af1a2079a9e4b8478e430b59605a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c45c1b909c75ff10e043ebaba07a7b7') in 0.1026286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.581034 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Border_AlbedoGloss.mat
+  artifactKey: Guid(caf9f4ec28e79fc41a99856dcfd2fa1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Border_AlbedoGloss.mat using Guid(caf9f4ec28e79fc41a99856dcfd2fa1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3eaa8615f806a7c735db1607f06067f1') in 0.1793885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Crossroads-1-lines-2-walk_Normal.mat
+  artifactKey: Guid(7f4b3d4d7d63ec14a99bd4ba13c50e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Crossroads-1-lines-2-walk_Normal.mat using Guid(7f4b3d4d7d63ec14a99bd4ba13c50e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e304dcb04c8a6dc1d5c095959beba2f') in 0.211263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.500601 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials
+  artifactKey: Guid(35f533fa1497c4946bb8448868cbfe8c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials using Guid(35f533fa1497c4946bb8448868cbfe8c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ad4fc1ddb835361babdb117253d4d2b0') in 0.4394818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Road-1-line_AlbedoGloss.mat
+  artifactKey: Guid(5aee056fb90f9f14cb5deb311664ba4d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Road-1-line_AlbedoGloss.mat using Guid(5aee056fb90f9f14cb5deb311664ba4d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4140aa1f655afd5c3d3af50e6c4f15ea') in 0.2586615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Road-1-line-turn-2_Normal.mat
+  artifactKey: Guid(4595b4cdaef7c5041ab8057ed8e7870b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/ModularLowpolyStreetsFree/Materials/Roads/Materials/Road-1-line-turn-2_Normal.mat using Guid(4595b4cdaef7c5041ab8057ed8e7870b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4439dbf044265acfbef8051c8b708fa2') in 0.0764519 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor6.mat
+  artifactKey: Guid(5f1fca5aad2d9784aab6cbc409a6847b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor6.mat using Guid(5f1fca5aad2d9784aab6cbc409a6847b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'de23051455fde0878e22eb4f11a26d91') in 0.3868463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensEmission2.mat
+  artifactKey: Guid(377c136d85f556d4a86ecfcdd8e801af) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensEmission2.mat using Guid(377c136d85f556d4a86ecfcdd8e801af) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b1b6b632c6011a459ce4c5db56bea2b2') in 0.1250646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensRoughness.mat
+  artifactKey: Guid(b0db649227cd87943b47ec49fca96e01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/ScreensRoughness.mat using Guid(b0db649227cd87943b47ec49fca96e01) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a02aa92be162022283fd425e16b9f8bf') in 0.1476073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/WhiteCity/Materials
+  artifactKey: Guid(8ec15139be0afd24aa39173ec0fc6aa1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/WhiteCity/Materials using Guid(8ec15139be0afd24aa39173ec0fc6aa1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ddf1d1f217368ec3a76ff8f7c5d5bb5a') in 0.0759377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/WhiteCity
+  artifactKey: Guid(15e1b9b195d0765408618c4755b46069) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/WhiteCity using Guid(15e1b9b195d0765408618c4755b46069) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '332342f2137c7172d2397739f229c187') in 0.0739019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor4.mat
+  artifactKey: Guid(167e94cce17d45544a9a446944ebd239) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor4.mat using Guid(167e94cce17d45544a9a446944ebd239) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ec888eb7f5402fdb90d1d10b33653a5c') in 0.0920356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor7.mat
+  artifactKey: Guid(5e4aba9f988c1134a870f1b073b62912) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor7.mat using Guid(5e4aba9f988c1134a870f1b073b62912) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a6b86ed4dd8d40cc60bd639ed4626a36') in 0.0920461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingEmission2Day.mat
+  artifactKey: Guid(187e8cdb28b20b6499464ff092b2ab60) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingEmission2Day.mat using Guid(187e8cdb28b20b6499464ff092b2ab60) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '427e328d9cccc2bcb29c68fda4a06a81') in 0.1164543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingRoughness.mat
+  artifactKey: Guid(f8c32e940ef8bb845addedfa5fdd94ec) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingRoughness.mat using Guid(f8c32e940ef8bb845addedfa5fdd94ec) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '309f53aac9ea3668f08886a8a6381812') in 0.1334443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000745 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor8.mat
+  artifactKey: Guid(777aeb94fa22df94cb4fca4824bdfc3f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Buildings_Pack/Textures_Materials_Models/Materials/BuildingColor8.mat using Guid(777aeb94fa22df94cb4fca4824bdfc3f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '923369c54afaa838f5ef5095fda60888') in 0.1246151 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/WhiteCity/Textures/Buildings
+  artifactKey: Guid(f38067aea2883b54a99335fa01b22ac5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/WhiteCity/Textures/Buildings using Guid(f38067aea2883b54a99335fa01b22ac5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '44b8ec31847073f97f4b34458227975a') in 0.0691199 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.124034 seconds.
+  path: Assets/Models/source/Skyscraper.prefab
+  artifactKey: Guid(d7c635d52a15cac4ba6b53021c56bf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/source/Skyscraper.prefab using Guid(d7c635d52a15cac4ba6b53021c56bf14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4465477a4007541c50b1d73a22a065aa') in 0.2866887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.503243 seconds.
+  path: Assets/Models/source/Skyscraper.prefab
+  artifactKey: Guid(d7c635d52a15cac4ba6b53021c56bf14) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/source/Skyscraper.prefab using Guid(d7c635d52a15cac4ba6b53021c56bf14) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a3cf91f70c21aea3c35beeeb8e30e33e') in 0.3935653 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.885864 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_BlueRedDiffuse.png
+  artifactKey: Guid(cc70f262159c4c647850117981413d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_BlueRedDiffuse.png using Guid(cc70f262159c4c647850117981413d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7363078e3731a7fca4b06c9b529117fb') in 0.1230237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Metallic.png
+  artifactKey: Guid(c6c4df632c45af94d80963053daed30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Metallic.png using Guid(c6c4df632c45af94d80963053daed30c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ddfc2586488a4d46c61997647ca9d10') in 0.1087017 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/CTTMetallic.png
+  artifactKey: Guid(803baa0c99ecc0e469178005b0f352dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/CTTMetallic.png using Guid(803baa0c99ecc0e469178005b0f352dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9b35bc262497f7d182e5415f17c5c2f') in 0.1099943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightGreenEmission.png
+  artifactKey: Guid(6749ee2ec752af245bdea02d1a3d3322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightGreenEmission.png using Guid(6749ee2ec752af245bdea02d1a3d3322) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80f622e3334d898885d80ffafdedf219') in 0.1465837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/CTTOrangeGrayDiffuse.png
+  artifactKey: Guid(90070f42579b47545a55e54580978d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/CTTOrangeGrayDiffuse.png using Guid(90070f42579b47545a55e54580978d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11850342faaf5352348b458fb8fb0f4b') in 0.1468101 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/Parking_Roughness.png
+  artifactKey: Guid(b29918300ef20684eb225c9c1c1d1b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/Parking_Roughness.png using Guid(b29918300ef20684eb225c9c1c1d1b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b817c074da75c5d73396cc107432338c') in 0.1925192 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000972 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/Parking_OrangeGrayDiffuse.png
+  artifactKey: Guid(3be550b3f639a2242ab2993824a11edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/Parking_OrangeGrayDiffuse.png using Guid(3be550b3f639a2242ab2993824a11edb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef0d7e9b094edc1ebf546c9a47349be8') in 0.1964179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightYellowEmission.png
+  artifactKey: Guid(49e0cdc3efa8c314f8d17ff5b45f11d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightYellowEmission.png using Guid(49e0cdc3efa8c314f8d17ff5b45f11d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a74155a0d8d847382c7e96eb8317b02') in 0.0936048 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsRedEmission.png
+  artifactKey: Guid(f71d6c6b350a23b4ea86da98412ee620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsRedEmission.png using Guid(f71d6c6b350a23b4ea86da98412ee620) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0acbe920bca4dcb5cb023e0f736956ee') in 0.1183539 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Roughness.png
+  artifactKey: Guid(359ae03ae3276ba47a9cb5ed87d600ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Roughness.png using Guid(359ae03ae3276ba47a9cb5ed87d600ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d76c9b0cae39f0ffb3060ca58f1826d') in 0.1311443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsYellowDiffuse.png
+  artifactKey: Guid(1efc97199695d324f91c2d76a17df522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsYellowDiffuse.png using Guid(1efc97199695d324f91c2d76a17df522) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a649fba88ef96da35eb352ad5f36da4') in 0.111588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsMetallic.png
+  artifactKey: Guid(1ee259818eebf0d4cb1dc3ce9f0b632d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/StreetLightsMetallic.png using Guid(1ee259818eebf0d4cb1dc3ce9f0b632d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6d3bc44d5e7de509333018f814ff71d') in 0.1603778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Normal.png
+  artifactKey: Guid(2e5c9b6fc95d40d459c0a5fded09da2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Textures/1_Normal.png using Guid(2e5c9b6fc95d40d459c0a5fded09da2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a050d124f29adac9155e0ab2a178b90') in 0.5253511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.526851 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/CTTRoughness.mat
+  artifactKey: Guid(45a2f8863136ad048aacbef6759b9482) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/CTTRoughness.mat using Guid(45a2f8863136ad048aacbef6759b9482) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0e1c939382aceb4d8f05b7f5e9743845') in 0.1240686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.136017 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_Roughness.mat
+  artifactKey: Guid(5a178c5ec4fb8fe4aa4b7839f58dd5c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_Roughness.mat using Guid(5a178c5ec4fb8fe4aa4b7839f58dd5c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5351c76c0aaeb4569de3dea2bc1f1840') in 0.1036573 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.176190 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_Metallic.mat
+  artifactKey: Guid(4897d6000d0dd2d45909eadd0fcfb4a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_Metallic.mat using Guid(4897d6000d0dd2d45909eadd0fcfb4a4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '94f99f69994aa1948ed41abcd7549345') in 0.1044226 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.353222 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/Parking_Roughness.mat
+  artifactKey: Guid(4875c1489362ea249817d22d205c9a99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/Parking_Roughness.mat using Guid(4875c1489362ea249817d22d205c9a99) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dd67995783ef835f7d86e7965996b0d3') in 0.0992787 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.121806 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_GrayYellowDiffuse.mat
+  artifactKey: Guid(51dca5dde620d9f43b9de4985a6582a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_GrayYellowDiffuse.mat using Guid(51dca5dde620d9f43b9de4985a6582a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '192a21c887b8c92b2f759a3654813d4b') in 0.1345421 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.724951 seconds.
+  path: Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_BlueRedDiffuse.mat
+  artifactKey: Guid(a6c10e9a41f9df04389672a4bb21cc34) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Low_Poly_Sci-fi_City/Roads_Pack/Textures_Materials_Models/Materials/1_BlueRedDiffuse.mat using Guid(a6c10e9a41f9df04389672a4bb21cc34) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'afa4ae353623582ef0d22a27381f62ca') in 0.1068118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.589857 seconds.
+  path: Assets/Models/source/Skyscraper1 Variant.prefab
+  artifactKey: Guid(e537a2545d0b813459f1b822ca199e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/source/Skyscraper1 Variant.prefab using Guid(e537a2545d0b813459f1b822ca199e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bfbaaae1923314c50959252214303c8f') in 0.2466051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.469113 seconds.
+  path: Assets/Models/source/Skyscraper1 Variant.prefab
+  artifactKey: Guid(e537a2545d0b813459f1b822ca199e75) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Models/source/Skyscraper1 Variant.prefab using Guid(e537a2545d0b813459f1b822ca199e75) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cbd5b9e4c7e512699aa219a0f1489558') in 0.0618845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in 10.203 seconds
+Refreshing native plugins compatible for Editor in 4.52 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.465 seconds
+Domain Reload Profiling: 14794ms
+	BeginReloadAssembly (4743ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (654ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (29ms)
+		CreateAndSetChildDomain (2270ms)
+	RebuildCommonClasses (157ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (126ms)
+	LoadAllAssembliesAndSetupDomain (5263ms)
+		LoadAssemblies (3949ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (2109ms)
+			TypeCache.Refresh (93ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (1867ms)
+			ResolveRequiredComponents (59ms)
+	FinalizeReload (4470ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3475ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (21ms)
+			BeforeProcessingInitializeOnLoad (965ms)
+			ProcessInitializeOnLoadAttributes (2076ms)
+			ProcessInitializeOnLoadMethodAttributes (365ms)
+			AfterProcessingInitializeOnLoad (30ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (134ms)
+Refreshing native plugins compatible for Editor in 3.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6224 unused Assets / (4.6 MB). Loaded Objects now: 7229.
+Memory consumption went from 157.1 MB to 152.5 MB.
+Total: 93.355700 ms (FindLiveObjects: 8.104900 ms CreateObjectMapping: 2.875100 ms MarkObjects: 51.970500 ms  DeleteObjects: 30.393600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
